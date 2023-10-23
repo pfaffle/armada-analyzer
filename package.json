@@ -10,6 +10,7 @@
     "build": "tsc",
     "format": "prettier . --write",
     "lint": "eslint .",
+    "prepare": "husky install",
     "start": "node lib/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -28,6 +29,8 @@
     "@typescript-eslint/parser": "^6.8.0",
     "eslint": "^8.52.0",
     "eslint-config-prettier": "^9.0.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.0.2",
     "prettier": "^3.0.3",
     "typescript": "^5.2.2"
   }
