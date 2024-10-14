@@ -1,12 +1,12 @@
 {
-  "name": "@pfaffle/armada-analyzer",
+  "name": "@pfaffle/armada-analyzer-service",
   "version": "0.0.1",
   "description": "Analyzes the data from STFC armadas",
   "scripts": {
-    "build": "pnpm -r run build",
-    "format": "pnpm -r run format",
-    "lint": "pnpm -r run lint",
-    "prepare": "husky install",
+    "build": "tsc",
+    "format": "prettier . --write",
+    "lint": "eslint .",
+    "start": "node lib/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,9 +24,6 @@
     "@typescript-eslint/parser": "^6.8.0",
     "eslint": "^8.52.0",
     "eslint-config-prettier": "^9.0.0",
-    "husky": "^8.0.3",
-    "lint-staged": "^15.0.2",
-    "prettier": "^3.0.3",
     "typescript": "^5.2.2"
   }
 }

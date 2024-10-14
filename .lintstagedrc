@@ -1,4 +1,7 @@
 {
-  "*.[jt]s": ["eslint --fix", "prettier --write"],
-  "*.{json,md}": "prettier --write"
+  "*.[jt]s": [
+    "pnpm lint --fix",
+    "pnpm format"
+  ],
+  "*.{json,md}": "pnpm format"
 }
