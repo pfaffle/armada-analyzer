@@ -3,10 +3,11 @@
   "version": "0.0.1",
   "description": "Analyzes the data from STFC armadas",
   "scripts": {
-    "build": "tsc",
-    "format": "prettier . --write",
+    "build": "pnpm run compile && pnpm run copy:static",
+    "compile": "tsc",
+    "copy:static": "ts-node scripts/copyStatic.ts",
     "lint": "eslint .",
-    "start": "node lib/index.js",
+    "start": "node dist/bin/start.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,10 +21,22 @@
   },
   "homepage": "https://github.com/pfaffle/armada-analyzer#readme",
   "devDependencies": {
+    "@types/cookie-parser": "^1.4.7",
+    "@types/debug": "^4.1.12",
+    "@types/express": "^5.0.0",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^22.7.5",
     "@typescript-eslint/eslint-plugin": "^6.8.0",
     "@typescript-eslint/parser": "^6.8.0",
     "eslint": "^8.52.0",
     "eslint-config-prettier": "^9.0.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.21.1",
+    "morgan": "~1.9.1"
   }
 }

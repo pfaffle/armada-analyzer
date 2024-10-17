@@ -1,7 +1,4 @@
 {
-  "*.[jt]s": [
-    "pnpm lint --fix",
-    "pnpm format"
-  ],
+  "*.[jt]s": ["pnpm lint --fix", "pnpm format"],
   "*.{json,md}": "pnpm format"
 }

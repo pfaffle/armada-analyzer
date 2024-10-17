@@ -4,7 +4,8 @@
   "description": "Analyzes the data from STFC armadas",
   "scripts": {
     "build": "pnpm -r run build",
-    "format": "pnpm -r run format",
+    "format": "prettier --write .",
+    "start": "pnpm -r run start",
     "lint": "pnpm -r run lint",
     "prepare": "husky install",
     "test": "echo \"Error: no test specified\" && exit 1"
