@@ -1,1 +1,1 @@
-export { router as testRouter } from "./test";
+export { router as healthRouter } from "./health";

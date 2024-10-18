@@ -1,7 +1,7 @@
 import express from "express";
 export const router = express.Router();
 
-/* GET test response. */
+/* GET health check response. */
 router.get("/", function (req, res, next) {
-  res.send("hello, world!");
+  res.status(204).send("");
 });
