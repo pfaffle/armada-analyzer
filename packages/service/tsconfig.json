@@ -1,12 +1,9 @@
 {
-  "include": ["src/**/*"],
   "compilerOptions": {
-    /* Visit https://aka.ms/tsconfig to read more about this file */
     "allowJs": true,
+    "noEmit": true,
     "target": "es2016",
     "module": "commonjs",
-    "rootDir": "./src",
-    "outDir": "./dist",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,

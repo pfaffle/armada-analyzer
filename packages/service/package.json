@@ -4,11 +4,12 @@
   "description": "Analyzes the data from STFC armadas",
   "scripts": {
     "build": "pnpm run compile && pnpm run copy:static",
-    "compile": "tsc",
+    "clean": "rm -rf dist",
+    "compile": "tsc -p ./tsconfig.build.json",
     "copy:static": "ts-node scripts/copyStatic.ts",
     "lint": "eslint .",
     "start": "node dist/bin/start.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -24,12 +25,15 @@
     "@types/cookie-parser": "^1.4.7",
     "@types/debug": "^4.1.12",
     "@types/express": "^5.0.0",
+    "@types/jest": "^29.5.13",
     "@types/morgan": "^1.9.9",
     "@types/node": "^22.7.5",
     "@typescript-eslint/eslint-plugin": "^6.8.0",
     "@typescript-eslint/parser": "^6.8.0",
     "eslint": "^8.52.0",
     "eslint-config-prettier": "^9.0.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.2.2"
   },

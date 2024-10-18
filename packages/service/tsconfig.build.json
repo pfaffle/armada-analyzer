@@ -1,0 +1,9 @@
+{
+  "exclude": ["**/__tests__/**/*", "dist/**/*", "scripts/*", "jest.config.ts"],
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "rootDir": "./src",
+    "outDir": "./dist"
+  }
+}
