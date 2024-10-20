@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import { app } from "..";
+import { app } from "../app";
 import debug from "debug";
 import http from "http";
 const log = debug("app:server");
@@ -33,7 +33,7 @@ app.set("port", port);
 /**
  * Create HTTP server.
  */
-const server = http.createServer(app as any);
+const server = http.createServer(app);
 
 function isSystemError(
   error: Error | NodeJS.ErrnoException,
