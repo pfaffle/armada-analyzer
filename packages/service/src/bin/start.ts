@@ -39,8 +39,8 @@ function isSystemError(
   error: Error | NodeJS.ErrnoException,
 ): error is NodeJS.ErrnoException {
   return !!(
-    (error as NodeJS.ErrnoException)?.code &&
-    (error as NodeJS.ErrnoException)?.syscall
+    (error as NodeJS.ErrnoException).code &&
+    (error as NodeJS.ErrnoException).syscall
   );
 }
 /**
@@ -51,7 +51,7 @@ function onError(error: Error) {
     if (error.syscall !== "listen") {
       throw error;
     }
-    const bind = typeof port === "string" ? "Pipe " + port : "Port " + port;
+    const bind = typeof port === "string" ? `Pipe ${port}` : `Port ${port}`;
 
     // handle specific listen errors with friendly messages
     switch (error.code) {

@@ -2,8 +2,9 @@
   "compilerOptions": {
     "allowJs": true,
     "noEmit": true,
-    "target": "es2016",
-    "module": "commonjs",
+    "target": "ES2016",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,

@@ -1,6 +1,7 @@
 {
   "name": "@pfaffle/armada-analyzer-service",
   "version": "0.0.1",
+  "module": "true",
   "description": "Analyzes the data from STFC armadas",
   "scripts": {
     "build": "pnpm run compile && pnpm run copy:static",
@@ -23,22 +24,24 @@
   },
   "homepage": "https://github.com/pfaffle/armada-analyzer#readme",
   "devDependencies": {
+    "@eslint/js": "^9.13.0",
     "@types/cookie-parser": "^1.4.7",
     "@types/debug": "^4.1.12",
+    "@types/eslint-config-prettier": "^6.11.3",
+    "@types/eslint__js": "^8.42.3",
     "@types/express": "^5.0.0",
     "@types/jest": "^29.5.13",
     "@types/morgan": "^1.9.9",
     "@types/node": "^22.7.5",
     "@types/supertest": "^6.0.2",
-    "@typescript-eslint/eslint-plugin": "^6.8.0",
-    "@typescript-eslint/parser": "^6.8.0",
-    "eslint": "^8.52.0",
-    "eslint-config-prettier": "^9.0.0",
+    "eslint": "^9.13.0",
+    "eslint-config-prettier": "^9.1.0",
     "jest": "^29.7.0",
     "supertest": "^7.0.0",
     "ts-jest": "^29.2.5",
     "ts-node": "^10.9.2",
-    "typescript": "^5.2.2"
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.11.0"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
