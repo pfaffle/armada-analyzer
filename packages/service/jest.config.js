@@ -1,14 +1,13 @@
-import type { Config } from "jest";
-
-const config: Config = {
+const config = {
   testEnvironment: "node",
   testPathIgnorePatterns: [
     "<rootDir>/dist/",
     "<rootDir>/node_modules/",
     "__util__",
   ],
+  extensionsToTreatAsEsm: [".ts"],
   transform: {
-    "^.+.tsx?$": ["ts-jest", {}],
+    "^.+.tsx?$": ["ts-jest", { useESM: true }],
   },
 };
 
