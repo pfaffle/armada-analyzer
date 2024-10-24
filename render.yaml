@@ -2,6 +2,7 @@ services:
   - name: armada-analyzer
     type: web
     runtime: static
+    plan: free
     rootDir: packages/ui/
     buildFilter:
       ignoredPaths:
@@ -12,6 +13,7 @@ services:
   - name: armada-analyzer-api
     type: web
     runtime: node
+    plan: free
     region: oregon
     healthCheckPath: /healthz
     rootDir: packages/service/
