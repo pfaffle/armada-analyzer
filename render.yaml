@@ -3,7 +3,7 @@ services:
     type: web
     runtime: static
     plan: free
-    rootDir: /packages/ui/
+    rootDir: packages/ui/
     buildFilter:
       ignoredPaths:
         - "src/__tests__/**/*"
@@ -16,7 +16,7 @@ services:
     plan: free
     region: oregon
     healthCheckPath: /healthz
-    rootDir: /packages/service/
+    rootDir: packages/service/
     buildFilter:
       ignoredPaths:
         - "src/__tests__/**/*"
