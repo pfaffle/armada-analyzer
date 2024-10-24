@@ -1,0 +1,31 @@
+services:
+  - name: armada-analyzer
+    type: web
+    runtime: static
+    plan: free
+    rootDir: /packages/ui/
+    buildFilter:
+      ignoredPaths:
+        - "src/__tests__/**/*"
+    buildCommand: pnpm install --frozen-lockfile; pnpm run build
+    staticPublishPath: ./dist
+
+  - name: armada-analyzer-api
+    type: web
+    runtime: node
+    plan: free
+    region: oregon
+    healthCheckPath: /healthz
+    rootDir: /packages/service/
+    buildFilter:
+      ignoredPaths:
+        - "src/__tests__/**/*"
+    buildCommand: pnpm install --frozen-lockfile; pnpm run build
+    startCommand: pnpm run start:server
+    envVars:
+      - key: DEBUG
+        value: app:*
+      - key: DEBUG_COLORS
+        value: 1
+      - key: DEBUG_HIDE_DATE
+        value: 1
