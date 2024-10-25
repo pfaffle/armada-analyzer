@@ -8,9 +8,10 @@
     "clean": "rm -rf dist",
     "compile": "tsc -p ./tsconfig.build.json",
     "copy:static": "tsx scripts/copyStatic.ts",
+    "format": "prettier --ignore-path ../../.prettierignore --write .",
     "lint": "eslint .",
-    "start:server": "node dist/bin/start.js",
-    "start": "pnpm run build && pnpm run start:server",
+    "start": "node dist/bin/start.js",
+    "dev": "pnpm run build && pnpm run start",
     "test": "cross-env NODE_OPTIONS=\"$NODE_OPTIONS --experimental-vm-modules\" jest"
   },
   "repository": {

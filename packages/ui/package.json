@@ -6,6 +6,7 @@
   "scripts": {
     "build": "tsc -b && vite build",
     "dev": "vite",
+    "format": "prettier --ignore-path ../../.prettierignore --write .",
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "echo no tests yet"

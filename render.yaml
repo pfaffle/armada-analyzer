@@ -20,7 +20,7 @@ services:
       ignoredPaths:
         - "src/__tests__/**/*"
     buildCommand: pnpm install --frozen-lockfile; pnpm run build
-    startCommand: pnpm run start:server
+    startCommand: pnpm run start
     envVars:
       - key: DEBUG
         value: app:*
