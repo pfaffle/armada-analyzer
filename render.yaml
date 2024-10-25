@@ -8,6 +8,9 @@ services:
         - "src/__tests__/**/*"
     buildCommand: pnpm install --frozen-lockfile; pnpm run build
     staticPublishPath: ./dist
+    envVars:
+      - key: SKIP_INSTALL_DEPS
+        value: "true"
 
   - name: armada-analyzer-api
     type: web
