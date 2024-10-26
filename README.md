@@ -22,6 +22,18 @@ component's instructions on how to develop each one.
     [fnm](https://github.com/Schniz/fnm).
 - [pnpm](https://pnpm.io)
 
+### Pre-commit hooks
+
+Git pre-commit hooks are enabled using [Husky][3] and [lint-staged][4]. They
+should automatically be installed for you when you install your dependencies
+using `pnpm install` The hook will run ESLint and Prettier on the files you
+modified in your current changeset, and it will abort your commit if any lint
+rules fail. Fix them before committing!
+
+If you want to commit without fixing errors, you can bypass the hook by using
+`git commit -n`. Be warned however that these same checks are run against pull
+requests, so you will have to fix them before merging any changes.
+
 ### Using VS Code
 
 If you use VS Code, you can open the `armada-analyzer.code-workspace` file to
@@ -90,6 +102,15 @@ pnpm test
 The code (and much of the configuration) is formatted using
 [Prettier](https://prettier.io) with mostly-default settings.
 
+If you want to manually run the formatter, use:
+
+```sh
+pnpm format
+```
+
+The precommit hook should automatically run it on any files you modified in your
+changeset, however.
+
 # Deployment
 
 Both the service and the UI are deployed to [Render][1]. The deployment
@@ -101,3 +122,5 @@ https://docs.render.com/blueprint-spec
 
 [1]: https://render.com/
 [2]: https://armada-analyzer.onrender.com
+[3]: https://typicode.github.io/husky/
+[4]: https://github.com/lint-staged/lint-staged
