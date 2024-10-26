@@ -4,9 +4,20 @@ import reactHooks from "eslint-plugin-react-hooks";
 import reactRefresh from "eslint-plugin-react-refresh";
 import tseslint from "typescript-eslint";
 import eslintConfigPrettier from "eslint-config-prettier";
+import react from "eslint-plugin-react";
 
 export default tseslint.config(
   { ignores: ["dist"] },
+  {
+    settings: { react: { version: "18.3" } },
+    plugins: {
+      react,
+    },
+    rules: {
+      ...react.configs.recommended.rules,
+      ...react.configs["jsx-runtime"].rules,
+    },
+  },
   {
     extends: [
       js.configs.recommended,
@@ -18,6 +29,7 @@ export default tseslint.config(
       ecmaVersion: 2020,
       globals: globals.browser,
       parserOptions: {
+        project: ["./tsconfig.node.json", "./tsconfig.app.json"],
         projectService: true,
         tsconfigRootDir: import.meta.dirname,
       },
