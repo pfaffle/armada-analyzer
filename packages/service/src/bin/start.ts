@@ -1,9 +1,11 @@
 #!/usr/bin/env node
 
-import { app } from "../app.js";
+import { initApp } from "../app.js";
 import debug from "debug";
 import http from "http";
+import { router as armadaRouter } from "../routes/armada.js";
 const log = debug("app:server");
+const app = initApp();
 
 /**
  * Normalize a port into a number, string, or false.
@@ -29,6 +31,11 @@ function normalizePort(val: string) {
  */
 const port = normalizePort(process.env.PORT || "3000");
 app.set("port", port);
+
+/**
+ * Wire up API routes
+ */
+app.use("/armada", armadaRouter);
 
 /**
  * Create HTTP server.
