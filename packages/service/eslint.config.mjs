@@ -24,6 +24,11 @@ export default tseslint.config(
       "@typescript-eslint/no-unused-vars": ["off"],
       // disabled because I keep running into https://github.com/DefinitelyTyped/DefinitelyTyped/pull/69846
       "@typescript-eslint/no-misused-promises": ["off"],
+      // let me use 'any' when I choose to
+      "@typescript-eslint/no-unsafe-assignment": ["off"],
+      "@typescript-eslint/no-unsafe-argument": ["warn"],
+      "@typescript-eslint/no-unsafe-call": ["warn"],
+      "@typescript-eslint/no-explicit-any": ["warn"],
     },
   },
 );

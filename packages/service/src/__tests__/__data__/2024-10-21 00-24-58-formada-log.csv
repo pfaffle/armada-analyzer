@@ -1,0 +1,250 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Rare Formation Armada	38	DEFEAT	Rare Formation Armada	38	77569712	0	Primary Adjunct	--	--	63632369	0	63571456	0	Larrios	10/21/2024 12:24:58 AM
+
+Formation Armada Results	Leader	Alliance Tag
+VICTORY	Bericxxx	RPC
+VICTORY	CaptMarvelOG1940	RPC
+VICTORY	Recall0098	RPC
+
+Reward Name	Count
+Artifact Token	1861
+Complex Nanotech	9
+Mega Chest	1
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	3330689	2186385	36858080	Modernity is Overrated	Field-Strip a Fusion Reactor	The Mind's Eye	Artifact Analysis	Maquis Strike	3.5	2925631	71801	530877	71801	0.12	2.9	4	395446	27867	13964	3	20758396	52957764	172	214	75.84	1583862	0	1	NO	NO
+Player Fleet 2	7336803	6583000	49684616	Quick Strike	Captain's Prerogative	We Used to Be Explorers	Artifact Analysis	You will be assimilated	4.04	5989083	115988	1391577	150776	0.12	2.35	4.5	1151889	117550	47161	4.04	31233339	68135884	135	228	44.8	464400	0	1	NO	NO
+Player Fleet 3	2628886	1633900	22287890	Modernity is Overrated	Red Alert! Raise Shields!	Bend the Rules	Savage Tenacity	Artifact Analysis	4	2317634	38972	314965	38972	0.12	2.25	3.5	295511	20846	10423	3.5	14534330	30041450	145	159	59.48	580630	0	1	NO	NO
+Player Fleet 4	1976394	1619330	10779098	Obliterate	Safe Cracker	No Locked Doors	Unshakeable Moral Code	Artifact Analysis	3	1693322	24081	329660	21071	0.09	2.36	3	303383	9559	10924	3	7501748	14056448	132	75	32.56	283040	0	1	NO	NO
+Enemy Fleet 1	12392802	1575000	63601912	Interceptor Isolytic Vulnerability	--	--	--	--	0	9226842	351000	355656	348664	0.05	2.5	0	105000	105000	105000	0	63571456	63632368	15	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	seionannon	ROEandPEACE	USS NEWTON	YES	--	--	USS NEWTON	NO	--	--	--	--	--	--	--	--	Officer	2.5	War's Almost Over	Tom Paris	--	--	--
+1	2	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.1	Bend the Rules	Kathryn Janeway	--	--	--
+1	3	Officer Ability	Shazbots	ROEandPEACE	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	2.5	Unshakeable Moral Code	Beverly Crusher	--	--	--
+1	4	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.15	Knock it Down	B'Elanna Torres	--	--	--
+1	5	Officer Ability	Shazbots	ROEandPEACE	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+1	6	Forbidden Tech Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	1.2	--	Transphasic Torpedoes	--	--	--
+1	7	Forbidden Tech Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.3	--	Transphasic Torpedoes	--	--	--
+1	8	Forbidden Tech Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.16	--	Transphasic Torpedoes	--	--	--
+1	9	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Shazbots	ROEandPEACE	AUGUR	YES	NO	63782	255127	788294	0	0	1107203	0	--	--	--	--	--	--	--
+1	10	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	92333	369332	213713	0	0	522031	153347	--	--	--	--	--	--	--
+1	11	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	86842	347369	201004	0	0	490987	144228	--	--	--	--	--	--	--
+1	12	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	311484	1245934	339650	0	0	1540766	356302	--	--	--	--	--	--	--
+1	13	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	294811	1179246	321470	0	0	1458296	337231	--	--	--	--	--	--	--
+1	14	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	88697	354787	243117	0	0	485659	200942	--	--	--	--	--	--	--
+1	15	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	80803	323211	221479	0	0	442435	183058	--	--	--	--	--	--	--
+1	16	Charging Weapons	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	17	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+1	18	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Bericxxx	ROEandPEACE	MONAVEEN	YES	NO	196537	786146	508204	0	0	1490887	0	--	--	--	--	--	--	--
+1	19	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	2143369	8573478	2272469	0	0	10040051	2949265	--	--	--	--	--	--	--
+1	20	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1667184	6668737	1817943	0	0	8246793	1907071	--	--	--	--	--	--	--
+1	21	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1682483	6729932	1834626	0	0	8322470	1924571	--	--	--	--	--	--	--
+1	22	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	331705	1326821	399401	0	0	1455651	602276	--	--	--	--	--	--	--
+1	23	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	41052	164210	140203	0	0	269631	75834	--	--	--	--	--	--	--
+1	24	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	44512	178050	152020	0	0	292357	82225	--	--	--	--	--	--	--
+1	25	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	39566	158266	135128	0	0	259871	73089	--	--	--	--	--	--	--
+1	26	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	39336	157346	134343	0	0	258361	72664	--	--	--	--	--	--	--
+1	27	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+1	28	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Bericxxx	ROEandPEACE	MONAVEEN	YES	NO	150721	602884	389734	0	0	1143339	0	--	--	--	--	--	--	--
+1	29	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	95217	380866	220387	0	0	538334	158136	--	--	--	--	--	--	--
+1	30	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	89969	359876	208241	0	0	508665	149421	--	--	--	--	--	--	--
+1	31	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	278627	1114508	303822	0	0	1378239	318718	--	--	--	--	--	--	--
+1	32	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	284086	1136344	309775	0	0	1405243	324962	--	--	--	--	--	--	--
+1	33	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	93483	373934	256237	0	0	511868	211786	--	--	--	--	--	--	--
+1	34	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	80175	320699	219758	0	0	438997	181635	--	--	--	--	--	--	--
+1	35	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	42494	169974	145125	0	0	279097	78496	--	--	--	--	--	--	--
+1	36	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	42527	170109	145240	0	0	279318	78558	--	--	--	--	--	--	--
+1	37	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	41995	167982	143424	0	0	275825	77576	--	--	--	--	--	--	--
+1	38	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	172058	688233	587618	0	0	1130075	317834	--	--	--	--	--	--	--
+1	39	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+1	40	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Bericxxx	ROEandPEACE	MONAVEEN	YES	NO	384236	1536946	993558	0	0	2914740	0	--	--	--	--	--	--	--
+1	41	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	42	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	373254	1493014	777232	0	0	2643500	0	--	--	--	--	--	--	--
+1	43	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+1	44	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	45	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	seionannon	ROEandPEACE	USS NEWTON	YES	NO	158654	634618	1944312	0	0	2737584	0	--	--	--	--	--	--	--
+2	47	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.15	To the Journey!	Harry Kim	--	--	--
+2	48	Officer Ability	Shazbots	ROEandPEACE	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+2	49	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Bericxxx	ROEandPEACE	MONAVEEN	YES	NO	199945	799780	517017	0	0	1516742	0	--	--	--	--	--	--	--
+2	50	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	97831	391322	226438	0	0	553114	162477	--	--	--	--	--	--	--
+2	51	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	96448	385790	223237	0	0	545295	160180	--	--	--	--	--	--	--
+2	52	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	53	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	105061	420242	249274	0	0	499324	275253	--	--	--	--	--	--	--
+2	54	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	316480	1265920	750905	0	0	1504145	829160	--	--	--	--	--	--	--
+2	55	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	319398	1277593	1232481	0	0	2370238	459234	--	--	--	--	--	--	--
+2	56	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	301993	1207974	1165320	0	0	2241078	434209	--	--	--	--	--	--	--
+2	57	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	308692	1234770	1191169	0	0	2290790	443841	--	--	--	--	--	--	--
+2	58	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+2	59	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	179508	718030	401921	0	0	1299459	0	--	--	--	--	--	--	--
+2	60	Charging Weapons	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	61	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	62	Charging Weapons	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	63	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	36739	146956	141766	0	0	272637	52824	--	--	--	--	--	--	--
+2	64	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	35820	143282	138222	0	0	265821	51503	--	--	--	--	--	--	--
+2	65	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	33547	134187	129448	0	0	248948	48234	--	--	--	--	--	--	--
+2	66	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	36808	147232	142033	0	0	273150	52923	--	--	--	--	--	--	--
+2	67	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	35099	140394	135437	0	0	260465	50465	--	--	--	--	--	--	--
+2	68	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	36416	145666	140522	0	0	270244	52360	--	--	--	--	--	--	--
+2	69	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+2	70	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	71	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Bericxxx	ROEandPEACE	MONAVEEN	YES	NO	155074	620298	400991	0	0	1176363	0	--	--	--	--	--	--	--
+2	72	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	92459	369838	214005	0	0	522745	153557	--	--	--	--	--	--	--
+2	73	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	96742	386970	223919	0	0	546961	160670	--	--	--	--	--	--	--
+2	74	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	75	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	93274	373095	221308	0	0	443305	244372	--	--	--	--	--	--	--
+2	76	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	91253	365011	216513	0	0	433700	239077	--	--	--	--	--	--	--
+2	77	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	37561	150246	144940	0	0	278741	54006	--	--	--	--	--	--	--
+2	78	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	37227	148907	143649	0	0	276258	53525	--	--	--	--	--	--	--
+2	79	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	35044	140175	135225	0	0	260058	50386	--	--	--	--	--	--	--
+2	80	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	33459	133834	129108	0	0	248294	48107	--	--	--	--	--	--	--
+2	81	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	37815	151262	145920	0	0	280626	54371	--	--	--	--	--	--	--
+2	82	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	35278	141114	136130	0	0	261798	50724	--	--	--	--	--	--	--
+2	83	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+2	84	Charging Weapons	Rare Formation Armada	--	Rare Formation Armada	NO	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	85	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	315568	1262270	344103	0	0	1560967	360974	--	--	--	--	--	--	--
+2	86	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	304690	1218758	332241	0	0	1507158	348531	--	--	--	--	--	--	--
+2	87	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	325890	1303559	355359	0	0	1612027	372781	--	--	--	--	--	--	--
+2	88	Charging Weapons	Rare Formation Armada	--	Rare Formation Armada	NO	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	89	Charging Weapons	Rare Formation Armada	--	Rare Formation Armada	NO	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	91	Officer Ability	Shazbots	ROEandPEACE	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Now We're Cooking	Neelix	--	--	--
+3	92	Officer Ability	Shazbots	ROEandPEACE	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	0.4	No Locked Doors	Dajash Tolra	--	--	--
+3	93	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Shazbots	ROEandPEACE	AUGUR	YES	NO	75302	301207	930671	0	0	1307180	0	--	--	--	--	--	--	--
+3	94	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	85436	341743	197749	0	0	483036	141892	--	--	--	--	--	--	--
+3	95	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	95303	381214	220588	0	0	538825	158280	--	--	--	--	--	--	--
+3	96	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	306403	1225610	334109	0	0	1515632	350490	--	--	--	--	--	--	--
+3	97	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	282015	1128059	307516	0	0	1394997	322593	--	--	--	--	--	--	--
+3	98	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	81994	327977	224745	0	0	448959	185757	--	--	--	--	--	--	--
+3	99	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	78674	314694	215644	0	0	430778	178234	--	--	--	--	--	--	--
+3	100	Charging Weapons	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+3	101	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+3	102	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	seionannon	ROEandPEACE	USS NEWTON	YES	NO	69007	276027	845679	0	0	1190713	0	--	--	--	--	--	--	--
+3	103	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	380983	1523931	403930	0	0	1784614	524230	--	--	--	--	--	--	--
+3	104	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	272167	1088668	296778	0	0	1346285	311328	--	--	--	--	--	--	--
+3	105	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	285588	1142354	311413	0	0	1412674	326681	--	--	--	--	--	--	--
+3	106	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	340413	1361653	409886	0	0	1493865	618087	--	--	--	--	--	--	--
+3	107	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	47599	190395	152073	0	0	292459	97608	--	--	--	--	--	--	--
+3	108	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	42732	170930	136525	0	0	262558	87629	--	--	--	--	--	--	--
+3	109	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	47430	189718	151533	0	0	291420	97261	--	--	--	--	--	--	--
+3	110	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	110330	441321	352494	0	0	677897	226248	--	--	--	--	--	--	--
+3	111	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	41150	164600	131470	0	0	252836	84384	--	--	--	--	--	--	--
+3	112	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	44387	177548	141812	0	0	272725	91022	--	--	--	--	--	--	--
+3	113	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+3	114	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	195164	780658	406394	0	0	1382216	0	--	--	--	--	--	--	--
+3	115	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	88876	355506	205712	0	0	502488	147606	--	--	--	--	--	--	--
+3	116	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	364042	1456166	842609	0	0	2058216	604601	--	--	--	--	--	--	--
+3	117	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1232492	4929967	1343943	0	0	6096570	1409832	--	--	--	--	--	--	--
+3	118	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	306273	1225093	333968	0	0	1514992	350342	--	--	--	--	--	--	--
+3	119	Shield Depleted	Rare Formation Armada	--	Rare Formation Armada	YES	seionannon	ROEandPEACE	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+3	120	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	395724	0	216935	0	0	433357	179302	--	--	--	--	--	--	--
+3	121	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1128669	0	618735	0	0	1236006	511398	--	--	--	--	--	--	--
+3	122	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	206691	0	132071	0	0	253992	84770	--	--	--	--	--	--	--
+3	123	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	239198	0	152842	0	0	293938	98102	--	--	--	--	--	--	--
+3	124	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	220718	0	141034	0	0	271229	90523	--	--	--	--	--	--	--
+3	125	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	205209	0	131124	0	0	252171	84162	--	--	--	--	--	--	--
+3	126	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	220613	0	140967	0	0	271100	90480	--	--	--	--	--	--	--
+3	127	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	220191	0	140697	0	0	270581	90307	--	--	--	--	--	--	--
+3	128	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	129	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	130	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+3	131	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	140385	1865109	835215	0	0	2840709	0	--	--	--	--	--	--	--
+3	132	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	133	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+3	134	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	135	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Shazbots	ROEandPEACE	AUGUR	YES	NO	185556	742226	2293334	0	0	3221116	0	--	--	--	--	--	--	--
+3	136	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	YES	0	4837872	2014797	0	0	6852669	0	--	--	--	--	--	--	--
+4	138	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.15	To the Journey!	Harry Kim	--	--	--
+4	139	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	168207	672829	376619	0	0	1217655	0	--	--	--	--	--	--	--
+4	140	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	417660	0	193342	0	0	472272	138730	--	--	--	--	--	--	--
+4	141	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	486108	0	225028	0	0	549670	161466	--	--	--	--	--	--	--
+4	142	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	143	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	538851	0	255703	0	0	512202	282352	--	--	--	--	--	--	--
+4	144	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1704504	0	808847	0	0	1620210	893141	--	--	--	--	--	--	--
+4	145	Charging Weapons	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	146	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+4	147	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	148	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+4	149	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Bericxxx	ROEandPEACE	MONAVEEN	YES	NO	159530	638122	412513	0	0	1210165	0	--	--	--	--	--	--	--
+4	150	Charging Weapons	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	151	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	152	Charging Weapons	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	153	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	194313	0	149961	0	0	288397	55877	--	--	--	--	--	--	--
+4	154	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	487568	0	376281	0	0	723643	140206	--	--	--	--	--	--	--
+4	155	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	173332	0	133769	0	0	257257	49844	--	--	--	--	--	--	--
+4	156	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	461943	0	356505	0	0	685611	132837	--	--	--	--	--	--	--
+4	157	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	seionannon	ROEandPEACE	USS NEWTON	YES	NO	86219	344878	1056620	0	0	1487717	0	--	--	--	--	--	--	--
+4	158	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	415925	0	192539	0	0	470310	138154	--	--	--	--	--	--	--
+4	159	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	466178	0	215802	0	0	527134	154846	--	--	--	--	--	--	--
+4	160	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	161	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	486289	0	230761	0	0	462240	254810	--	--	--	--	--	--	--
+4	162	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1621523	0	769470	0	0	1541333	849660	--	--	--	--	--	--	--
+4	163	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	190998	0	147402	0	0	283476	54924	--	--	--	--	--	--	--
+4	164	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	488994	0	377382	0	0	725760	140616	--	--	--	--	--	--	--
+4	165	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	186609	0	144015	0	0	276962	53662	--	--	--	--	--	--	--
+4	166	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	175822	0	135690	0	0	260952	50560	--	--	--	--	--	--	--
+4	167	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+4	168	Charging Weapons	Rare Formation Armada	--	Rare Formation Armada	NO	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	169	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1473905	0	321437	0	0	1458146	337196	--	--	--	--	--	--	--
+4	170	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1535620	0	334896	0	0	1519201	351315	--	--	--	--	--	--	--
+4	171	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1704155	0	371651	0	0	1685934	389872	--	--	--	--	--	--	--
+4	172	Charging Weapons	Rare Formation Armada	--	Rare Formation Armada	NO	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	173	Charging Weapons	Rare Formation Armada	--	Rare Formation Armada	NO	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	175	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	169176	676705	352278	0	0	1198159	0	--	--	--	--	--	--	--
+5	176	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	441374	0	204320	0	0	499087	146607	--	--	--	--	--	--	--
+5	177	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	420216	0	194526	0	0	475163	139579	--	--	--	--	--	--	--
+5	178	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	5380893	0	1173495	0	0	5323361	1231027	--	--	--	--	--	--	--
+5	179	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1431112	0	312104	0	0	1415810	327406	--	--	--	--	--	--	--
+5	180	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	423752	0	232300	0	0	464051	192001	--	--	--	--	--	--	--
+5	181	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	394021	0	216002	0	0	431493	178530	--	--	--	--	--	--	--
+5	182	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1562922	0	1206188	0	0	2319673	449437	--	--	--	--	--	--	--
+5	183	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+5	184	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	185	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+5	186	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	seionannon	ROEandPEACE	USS NEWTON	YES	NO	66129	264518	810417	0	0	1141064	0	--	--	--	--	--	--	--
+5	187	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1889938	0	400754	0	0	1770583	520109	--	--	--	--	--	--	--
+5	188	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1368127	0	298368	0	0	1353498	312997	--	--	--	--	--	--	--
+5	189	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1525999	0	332798	0	0	1509683	349114	--	--	--	--	--	--	--
+5	190	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1669597	0	402067	0	0	1465368	606296	--	--	--	--	--	--	--
+5	191	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	165996	0	128107	0	0	246369	47734	--	--	--	--	--	--	--
+5	192	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	175305	0	135292	0	0	260186	50411	--	--	--	--	--	--	--
+5	193	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+5	194	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	seionannon	ROEandPEACE	USS NEWTON	YES	NO	70163	280650	859844	0	0	1210657	0	--	--	--	--	--	--	--
+5	195	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	411485	0	190484	0	0	465290	136679	--	--	--	--	--	--	--
+5	196	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	420520	0	194666	0	0	475506	139680	--	--	--	--	--	--	--
+5	197	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1476650	0	322036	0	0	1460862	337824	--	--	--	--	--	--	--
+5	198	Attack	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	1474256	0	321513	0	0	1458492	337277	--	--	--	--	--	--	--
+5	199	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1197917	0	656697	0	0	1311840	542774	--	--	--	--	--	--	--
+5	200	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	440424	0	241440	0	0	482309	199555	--	--	--	--	--	--	--
+5	201	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	198187	0	152951	0	0	294147	56991	--	--	--	--	--	--	--
+5	202	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	183240	0	141415	0	0	271962	52693	--	--	--	--	--	--	--
+5	203	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+5	204	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Shazbots	ROEandPEACE	AUGUR	YES	NO	164360	657440	2031363	0	0	2853163	0	--	--	--	--	--	--	--
+5	205	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	206	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Shazbots	ROEandPEACE	AUGUR	YES	NO	166862	667449	2062288	0	0	2896599	0	--	--	--	--	--	--	--
+5	207	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Bericxxx	ROEandPEACE	MONAVEEN	YES	NO	384741	1538965	994863	0	0	2918569	0	--	--	--	--	--	--	--
+6	209	Officer Ability	Shazbots	ROEandPEACE	AUGUR	YES	--	--	AUGUR	NO	--	--	--	--	--	--	--	--	Officer	0.3	Now We're Cooking	Neelix	--	--	--
+6	210	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Bericxxx	ROEandPEACE	MONAVEEN	YES	NO	188540	754162	487527	0	0	1430229	0	--	--	--	--	--	--	--
+6	211	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	486727	0	225315	0	0	550371	161671	--	--	--	--	--	--	--
+6	212	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	469014	0	217115	0	0	530341	155788	--	--	--	--	--	--	--
+6	213	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	214	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1270533	0	696504	0	0	1391361	575676	--	--	--	--	--	--	--
+6	215	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	464845	0	254827	0	0	509052	210620	--	--	--	--	--	--	--
+6	216	Charging Weapons	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	50
+6	217	Officer Ability	Bericxxx	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+6	218	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	153873	615494	320413	0	0	1089780	0	--	--	--	--	--	--	--
+6	219	Charging Weapons	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	220	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	221	Charging Weapons	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	222	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	217920	0	139246	0	0	267791	89375	--	--	--	--	--	--	--
+6	223	Attack	Shazbots	ROEandPEACE	AUGUR	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	237883	0	152002	0	0	292322	97563	--	--	--	--	--	--	--
+6	224	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.13	Red Alert! Raise Shields!	Kathryn Janeway	--	--	--
+6	225	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.03	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	226	Attack	Rare Formation Armada	--	Rare Formation Armada	NO	Shazbots	ROEandPEACE	AUGUR	YES	NO	87225	348901	1078035	0	0	1514161	0	--	--	--	--	--	--	--
+6	227	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1846070	0	854581	0	0	2087460	613191	--	--	--	--	--	--	--
+6	228	Attack	Bericxxx	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1765972	0	817502	0	0	1996888	586586	--	--	--	--	--	--	--
+6	229	Charging Weapons	seionannon	ROEandPEACE	USS NEWTON	YES	Rare Formation Armada	--	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	230	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	YES	1143651	0	626948	0	0	1252413	518186	--	--	--	--	--	--	--
+6	231	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Rare Formation Armada	--	Rare Formation Armada	NO	NO	435248	0	238602	0	0	476640	197210	--	--	--	--	--	--	--
+6	232	Combatant Destroyed	Rare Formation Armada	--	Rare Formation Armada	YES	pfaffle	ROEandPEACE	Rare Formation Armada	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

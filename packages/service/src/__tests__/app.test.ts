@@ -1,5 +1,6 @@
 import request from "supertest";
-import { app } from "../app.ts";
+import { initApp } from "../app.ts";
+const app = initApp();
 
 describe("basic app", () => {
   it("responds to /healthz", async () => {
