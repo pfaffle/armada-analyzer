@@ -1,8 +1,8 @@
 import express from "express";
 import multer from "multer";
 import debug from "debug";
+import fs from "fs";
 const log = debug("app:armada");
-
 const handleUpload = multer({
   dest: "/tmp/uploads",
   limits: {
@@ -26,6 +26,11 @@ router.post("/upload", (req, res, next) => {
       } else {
         log("Received file", req.file);
         res.status(200).send({ status: "success" });
+        fs.rm(req.file.path, (err) => {
+          if (err) {
+            log({ err });
+          }
+        });
       }
     }
   });
