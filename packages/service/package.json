@@ -4,10 +4,9 @@
   "type": "module",
   "description": "Analyzes the data from STFC armadas",
   "scripts": {
-    "build": "pnpm run compile && pnpm run copy:static",
+    "build": "pnpm run compile",
     "clean": "rm -rf dist",
     "compile": "tsc -p ./tsconfig.build.json",
-    "copy:static": "tsx scripts/copyStatic.ts",
     "format": "prettier --ignore-path ../../.prettierignore --write .",
     "lint": "eslint .",
     "start": "node dist/bin/start.js",
