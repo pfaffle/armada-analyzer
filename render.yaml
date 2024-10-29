@@ -11,6 +11,8 @@ services:
     envVars:
       - key: SKIP_INSTALL_DEPS
         value: "true"
+      - key: VITE_API_URL
+        value: https://armada-analyzer-api.onrender.com/
 
   - name: armada-analyzer-api
     type: web
