@@ -22,6 +22,17 @@ component's instructions on how to develop each one.
     [fnm](https://github.com/Schniz/fnm).
 - [pnpm](https://pnpm.io)
 
+This project makes use of Node.js's [corepack][5] functionality to simplify
+managing the pnpm installation. You can take advantage of this by enabling
+corepack:
+
+```sh
+corepack enable
+```
+
+From that point forward, any calls to pnpm should work transparently without any
+extra setup.
+
 ### Pre-commit hooks
 
 Git pre-commit hooks are enabled using [Husky][3] and [lint-staged][4]. They
@@ -124,3 +135,4 @@ https://docs.render.com/blueprint-spec
 [2]: https://armada-analyzer.onrender.com
 [3]: https://typicode.github.io/husky/
 [4]: https://github.com/lint-staged/lint-staged
+[5]: https://nodejs.org/docs/latest-v22.x/api/corepack.html#corepack
