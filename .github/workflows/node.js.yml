@@ -15,10 +15,11 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [21.x]
+        node-version: [22.x]
         # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
 
     steps:
+      # TODO: play with using corepack here
       - uses: actions/checkout@v4
       - name: Install pnpm
         uses: pnpm/action-setup@v4
