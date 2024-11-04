@@ -81,10 +81,17 @@ dependencies.
 cd packages/ui && pnpm install
 ```
 
-Build and run the UI.
+There are two ways to build and run the UI. One assumes you have an API running
+that the UI can call.
 
 ```sh
 pnpm dev
+```
+
+You can also use API mocks provided by [MSW](https://mswjs.io/) instead.
+
+```sh
+pnpm dev:noapi
 ```
 
 ### Linting
