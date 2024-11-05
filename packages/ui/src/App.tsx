@@ -1,7 +1,7 @@
 import "./App.css";
 import { FileUploader } from "./FileUploader";
 
-function App() {
+export function App() {
   return (
     <>
       <h1>Armada Analyzer</h1>
@@ -19,5 +19,3 @@ function App() {
     </>
   );
 }
-
-export default App;
