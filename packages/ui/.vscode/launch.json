@@ -15,16 +15,6 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Debug service",
-      "runtimeExecutable": "pnpm",
-      "runtimeArgs": ["exec", "tsx"],
-      "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/src/bin/start.ts",
-      "outFiles": ["${workspaceFolder}/**/*.js"]
-    },
-    {
-      "type": "node",
-      "request": "launch",
       "name": "Debug file",
       "runtimeExecutable": "pnpm",
       "runtimeArgs": ["exec", "tsx"],
