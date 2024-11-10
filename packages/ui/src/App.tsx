@@ -8,7 +8,7 @@ export function App() {
       <p>
         by <a href="https://github.com/pfaffle">pfaffle</a>
       </p>
-      <p className="intro">
+      <p aria-label="Intro" className="intro">
         Export your Star Trek Fleet Command combat logs and upload them here to
         get an analysis of how your ship and crew performed in battle!
       </p>

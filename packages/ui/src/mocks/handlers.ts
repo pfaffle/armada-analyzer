@@ -1,7 +1,5 @@
 import { http, HttpResponse } from "msw";
-
-const apiUrl = (path: string) =>
-  new URL(path, import.meta.env.VITE_API_URL).href;
+import { apiUrl } from "./utils";
 
 export const handlers = [
   http.post(apiUrl("/armada/upload"), () =>
