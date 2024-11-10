@@ -29,8 +29,12 @@ export const FileUploader = () => {
         method: "POST",
         body: formData,
       })
-        .then(() => {
-          setStatus("success");
+        .then((resp) => {
+          if (resp.ok) {
+            setStatus("success");
+          } else {
+            setStatus("error");
+          }
         })
         .catch((err) => {
           console.error(err);
@@ -43,12 +47,13 @@ export const FileUploader = () => {
     setFile(e.currentTarget.files?.item(0) || undefined);
   };
   return (
-    <form encType="multipart/form-data">
+    <form aria-label="Upload combat log" encType="multipart/form-data">
       <div className="segment">
-        <label htmlFor="file">Select a combat log to upload:</label>
+        <label htmlFor="file">Select a combat log to analyze</label>
       </div>
       <div className="segment">
         <input
+          role="button"
           type="file"
           id="file"
           accept="text/csv"
@@ -56,7 +61,9 @@ export const FileUploader = () => {
         />
         <input type="submit" onClick={handleSubmit} value="Upload" />
       </div>
-      <div>{statusToMessage(status)}</div>
+      <div role="status" aria-label="Status">
+        {statusToMessage(status)}
+      </div>
     </form>
   );
 };
