@@ -1,10 +1,11 @@
 import { describe, expect, it } from "vitest";
 import { App } from "../App";
-import { render, screen } from "@testing-library/react";
+import { screen } from "@testing-library/react";
+import { renderWithTheme } from "@/__tests__/__utils__/utils";
 
 describe("App", () => {
   it("renders correct content", () => {
-    render(<App />);
+    renderWithTheme(<App />);
     expect(screen.getByRole("heading", { name: "Armada Analyzer" }));
     expect(screen.getByRole("form")).toBeInTheDocument();
     expect(
