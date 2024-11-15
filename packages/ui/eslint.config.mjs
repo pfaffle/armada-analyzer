@@ -8,7 +8,13 @@ import react from "eslint-plugin-react";
 
 export default tseslint.config(
   {
-    ignores: ["public/mockServiceWorker.js", "eslint.config.mjs", "dist"],
+    ignores: [
+      "public/mockServiceWorker.js",
+      "eslint.config.mjs",
+      "dist",
+      // snippets added by chakra-ui
+      "src/components/ui",
+    ],
   },
   eslint.configs.recommended,
   ...tseslint.configs.recommendedTypeChecked,

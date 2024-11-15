@@ -1,4 +1,3 @@
-import "./App.css";
 import { FileUploader } from "./FileUploader";
 
 export function App() {
