@@ -9,8 +9,8 @@
     "compile": "tsc -p ./tsconfig.build.json",
     "format": "prettier --ignore-path ../../.prettierignore --write .",
     "lint": "eslint .",
-    "start": "node dist/bin/start.js",
-    "dev": "pnpm run build && cross-env DEBUG=\"app:*\" pnpm run start",
+    "start": "node --env-file=.env dist/bin/start.js",
+    "dev": "pnpm run build && pnpm run start",
     "test": "cross-env NODE_OPTIONS=\"$NODE_OPTIONS --experimental-vm-modules\" jest"
   },
   "repository": {

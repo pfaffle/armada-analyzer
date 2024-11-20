@@ -3,7 +3,7 @@
 import { initApp } from "../app.js";
 import debug from "debug";
 import http from "http";
-import { router as armadaRouter } from "../routes/armada.js";
+import { createRouter as createArmadaRouter } from "../routes/armada.js";
 const log = debug("app:server");
 const app = initApp();
 
@@ -35,7 +35,13 @@ app.set("port", port);
 /**
  * Wire up API routes
  */
-app.use("/armada", armadaRouter);
+app.use(
+  "/armada",
+  createArmadaRouter({
+    uploadsPath: process.env.UPLOADS_PATH || "/tmp/uploads",
+    splitLogsPath: process.env.SPLIT_LOGS_PATH || "/tmp/splitlogs",
+  }),
+);
 
 /**
  * Create HTTP server.

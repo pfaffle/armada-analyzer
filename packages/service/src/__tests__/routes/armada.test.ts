@@ -1,15 +1,18 @@
 import request from "supertest";
 import { initApp } from "../../app.ts";
-import { router as armadaRouter } from "../../routes/armada.ts";
+import { createRouter as createArmadaRouter } from "../../routes/armada.ts";
 import { readTestDataFile } from "../__util__/index.ts";
-
-const app = initApp();
-app.use("/armada", armadaRouter);
-const combatLog = readTestDataFile(
-  "2024-10-20 17-40-24-hirogen-combat-log.csv",
-);
+import fs from "fs";
 
 describe("/armada/upload route", () => {
+  const uploadsPath = fs.mkdtempSync("/tmp/test-uploads-");
+  const splitLogsPath = fs.mkdtempSync("/tmp/test-splitlogs-");
+  const app = initApp();
+  app.use("/armada", createArmadaRouter({ uploadsPath, splitLogsPath }));
+  const combatLog = readTestDataFile(
+    "2024-10-20 17-40-24-hirogen-combat-log.csv",
+  );
+
   it("returns success", async () => {
     const response = await request(app)
       .post("/armada/upload")

@@ -36,6 +36,3 @@ export async function splitRawLog(logPath: string, outputDir: string) {
   await outputLog.close();
   return outputFiles;
 }
-export function parseLog(log: File) {
-  return {};
-}

@@ -27,8 +27,6 @@ services:
     buildCommand: pnpm install --frozen-lockfile; pnpm run build
     startCommand: pnpm run start
     envVars:
-      - key: DEBUG
-        value: app:*
       - key: DEBUG_COLORS
         value: 1
       - key: DEBUG_HIDE_DATE

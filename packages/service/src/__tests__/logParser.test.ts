@@ -1,9 +1,9 @@
-import { splitRawLog } from "../parseLog.ts";
+import { splitRawLog } from "../logParser.ts";
 import { getTestDataFile } from "./__util__/index.ts";
 import fs from "fs";
 
-describe("parseLog", () => {
-  const outputDir = fs.mkdtempSync("/tmp/parseLogTest-");
+describe("logParser", () => {
+  const outputDir = fs.mkdtempSync("/tmp/test-logParser-");
   it("splits a basic combat log into individual components", async () => {
     const csvFiles = await splitRawLog(
       getTestDataFile("2024-10-20 17-40-24-hirogen-combat-log.csv"),
