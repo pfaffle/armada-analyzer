@@ -106,8 +106,8 @@ pnpm lint
 
 ### Testing
 
-Testing in the API service uses [Jest][6]. Testing in the UI uses [Vitest][7]
-and [React Testing Library][8].
+Testing in the API service uses the built-in [Node.js Test Runner][6]. Testing
+in the UI uses [Vitest][7] and [React Testing Library][8].
 
 To run the tests, simply run:
 
@@ -143,6 +143,6 @@ https://docs.render.com/blueprint-spec
 [3]: https://typicode.github.io/husky/
 [4]: https://github.com/lint-staged/lint-staged
 [5]: https://nodejs.org/docs/latest-v22.x/api/corepack.html#corepack
-[6]: https://jestjs.io
+[6]: https://nodejs.org/docs/latest-v22.x/api/test.html#test-runner
 [7]: https://vitest.dev/
 [8]: https://testing-library.com/docs/react-testing-library/intro

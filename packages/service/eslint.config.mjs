@@ -20,6 +20,18 @@ export default tseslint.config(
   },
   {
     rules: {
+      "@typescript-eslint/no-floating-promises": [
+        "warn",
+        {
+          allowForKnownSafeCalls: [
+            {
+              from: "package",
+              name: ["it", "describe"],
+              package: "node:test",
+            },
+          ],
+        },
+      ],
       // disabled because I prefer to have all 3 args defined in route handlers
       "@typescript-eslint/no-unused-vars": ["off"],
       // disabled because I keep running into https://github.com/DefinitelyTyped/DefinitelyTyped/pull/69846

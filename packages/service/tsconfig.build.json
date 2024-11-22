@@ -1,15 +1,8 @@
 {
-  "exclude": [
-    "**/__tests__/**/*",
-    "dist/**/*",
-    "scripts/*",
-    "jest.config.js",
-    "eslint.config.mjs"
-  ],
+  "exclude": ["dist/**/*", "scripts/*", "eslint.config.mjs"],
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "noEmit": false,
-    "allowImportingTsExtensions": false,
     "rootDir": "./src",
     "outDir": "./dist"
   }

@@ -2,8 +2,6 @@
   "compilerOptions": {
     "allowJs": true,
     "noEmit": true,
-    "allowImportingTsExtensions": true,
-    "target": "ES2016",
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "esModuleInterop": true,
