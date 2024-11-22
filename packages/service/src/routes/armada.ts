@@ -2,6 +2,7 @@ import express from "express";
 import multer from "multer";
 import debug from "debug";
 import fs from "fs";
+import { splitRawLog } from "../logParser.js";
 
 const log = debug("app:armada");
 
@@ -42,8 +43,8 @@ export function createRouter({
   }).single("file");
   const router = express.Router();
 
-  router.post("/upload", (req, res, next) => {
-    return handleUpload(req, res, (err) => {
+  router.post("/upload", async (req, res, next) => {
+    return handleUpload(req, res, async (err) => {
       if (err instanceof multer.MulterError) {
         log({ err });
         res.status(400).send();
@@ -54,8 +55,17 @@ export function createRouter({
           res.status(400).send();
         } else {
           log("Received file", req.file);
+          const logs = await splitRawLog(req.file.path, splitLogsPath);
+          log("Split log into components", logs);
           res.status(200).send({ status: "success" });
+
+          // clean up files when we aren't using them
           fs.rm(req.file.path, (err) => {
+            if (err) {
+              log({ err });
+            }
+          });
+          fs.rm(splitLogsPath, { force: true, recursive: true }, (err) => {
             if (err) {
               log({ err });
             }

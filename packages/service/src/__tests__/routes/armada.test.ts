@@ -1,7 +1,9 @@
+import { describe, it } from "node:test";
+import { expect } from "expect";
 import request from "supertest";
-import { initApp } from "../../app.ts";
-import { createRouter as createArmadaRouter } from "../../routes/armada.ts";
-import { readTestDataFile } from "../__util__/index.ts";
+import { initApp } from "../../app.js";
+import { createRouter as createArmadaRouter } from "../../routes/armada.js";
+import { readTestDataFile } from "../__util__/index.js";
 import fs from "fs";
 
 describe("/armada/upload route", () => {
