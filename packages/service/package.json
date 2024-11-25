@@ -5,7 +5,7 @@
   "description": "Analyzes the data from STFC armadas",
   "scripts": {
     "build": "pnpm run compile",
-    "clean": "rm -rf dist",
+    "clean": "tsc -b --clean && rm -rf dist",
     "compile": "tsc -b",
     "format": "prettier --ignore-path ../../.prettierignore --write .",
     "lint": "eslint .",
