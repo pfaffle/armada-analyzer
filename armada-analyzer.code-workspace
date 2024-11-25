@@ -10,5 +10,7 @@
       "path": "packages/ui",
     },
   ],
-  "settings": {},
+  "settings": {
+    "nodejs-testing.pretest": ["pnpm", "-C", "packages/service/", "build"],
+  },
 }

@@ -2,7 +2,7 @@ import express from "express";
 import multer from "multer";
 import debug from "debug";
 import fs from "fs";
-import { splitRawLog } from "../logParser.js";
+import { parseLog, splitRawLog } from "../logParser.js";
 
 const log = debug("app:armada");
 
@@ -54,9 +54,19 @@ export function createRouter({
         if (!req.file) {
           res.status(400).send();
         } else {
-          log("Received file", req.file);
+          log("received file", req.file);
           const logs = await splitRawLog(req.file.path, splitLogsPath);
-          log("Split log into components", logs);
+          log("log split into components", logs);
+          const typedLogs = await Promise.all(
+            logs.map(async (l) => await parseLog(l)),
+          );
+          typedLogs.forEach((l) => {
+            if (l.type === "rounds") {
+              log("%o", l.records);
+            } else {
+              log("%s: %O", l.type, l.records);
+            }
+          });
           res.status(200).send({ status: "success" });
 
           // clean up files when we aren't using them

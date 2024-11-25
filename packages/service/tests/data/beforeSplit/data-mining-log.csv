@@ -1,0 +1,19 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+pfaffle	43	VICTORY	VALDORE	35	41935580	4131	Christopher Pike	Goon	Hendorff	40134509	40132286	25155825	25146932	Yarda	11/29/2024 8:53:03 AM
+Suliban Bounty Hunter	36	DEFEAT	SULIBAN BOUNTY HUNTER	36	652792	0	Suliban Bounty Hunter	--	--	97830	0	103270	0	Yarda	11/29/2024 8:53:03 AM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	4837161	4437305	32661114	Empire Tax	Teaching Moments	Advanced Training	Military Training	Explorer Trainer	4	3923057	46551	55869	583441	0.12	2.25	4	61396	792868	33197	4	25155825	40166403	145	185	66.6	346750	0	1	NO	NO
+Enemy Fleet 1	278877	273365	100550	ship_ability_name_{0}	--	--	--	--	0	169530	9112	9112	54674	0.1	1.5	0	9112	36449	9112	0	103270	97830	12	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	1.2	Teaching Moments	Christopher Pike	--	--	--
+1	2	Forbidden Tech Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	13.5	--	Metreon Cascade Warhead	--	--	--
+1	3	Attack	Suliban Bounty Hunter	--	SULIBAN BOUNTY HUNTER	NO	pfaffle	ROEandPEACE	VALDORE	NO	NO	2223	8893	22356	0	0	33472	0	--	--	--	--	--	--	--
+1	4	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Suliban Bounty Hunter	--	SULIBAN BOUNTY HUNTER	NO	NO	269338	1077351	285185	0	0	1300298	331576	--	--	--	--	--	--	--
+1	5	Shield Depleted	Suliban Bounty Hunter	--	SULIBAN BOUNTY HUNTER	NO	pfaffle	ROEandPEACE	SULIBAN BOUNTY HUNTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+1	6	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Suliban Bounty Hunter	--	SULIBAN BOUNTY HUNTER	NO	NO	1296822	0	274625	0	0	1252149	319298	--	--	--	--	--	--	--
+1	7	Combatant Destroyed	Suliban Bounty Hunter	--	SULIBAN BOUNTY HUNTER	NO	pfaffle	ROEandPEACE	SULIBAN BOUNTY HUNTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

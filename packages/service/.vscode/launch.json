@@ -10,7 +10,8 @@
       "runtimeArgs": ["test"],
       "runtimeExecutable": "pnpm",
       "skipFiles": ["<node_internals>/**"],
-      "type": "node"
+      "type": "node",
+      "preLaunchTask": "pnpm: build"
     },
     {
       "type": "node",

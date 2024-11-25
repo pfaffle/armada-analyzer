@@ -1,2 +1,2 @@
 # Use the original line endings for test data
-tests/data/in/* -text
+tests/data/beforeSplit/* -text

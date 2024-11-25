@@ -1,0 +1,38 @@
+[
+  {
+    "Hull Health": 41021803,
+    "Hull Health Remaining": 40944424,
+    "Location": "Sol",
+    "Officer One": "Christopher Pike",
+    "Officer Three": "T'Laan",
+    "Officer Two": "Marlena Moreau",
+    "Outcome": "VICTORY",
+    "Player Level": 43,
+    "Player Name": "pfaffle",
+    "Shield Health": 26801554,
+    "Shield Health Remaining": 26482628,
+    "Ship Level": 38,
+    "Ship Name": "VALDORE",
+    "Ship Strength": 42637376,
+    "Ship XP": 13241,
+    "Timestamp": "12/3/2024 2:08:41 AM"
+  },
+  {
+    "Hull Health": 16786707,
+    "Hull Health Remaining": 0,
+    "Location": "Sol",
+    "Officer One": "Heavy Federation Transport",
+    "Officer Three": "--",
+    "Officer Two": "--",
+    "Outcome": "DEFEAT",
+    "Player Level": 49,
+    "Player Name": "Heavy Federation Transport",
+    "Shield Health": 17917881,
+    "Shield Health Remaining": 0,
+    "Ship Level": 49,
+    "Ship Name": "H-CLASS FREIGHTER",
+    "Ship Strength": 24252922,
+    "Ship XP": 0,
+    "Timestamp": "12/3/2024 2:08:41 AM"
+  }
+]
