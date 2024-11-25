@@ -1,7 +1,7 @@
 import { describe, it } from "node:test";
 import { expect } from "expect";
-import { splitRawLog } from "../logParser.js";
-import { getTestDataFile } from "./__util__/index.js";
+import { splitRawLog } from "../src/logParser.js";
+import { getTestDataFile } from "./util/index.js";
 import fs from "fs";
 
 describe("logParser", () => {

@@ -1,0 +1,7 @@
+{
+  "extends": "./tsconfig.base.json",
+  "files": ["eslint.config.mjs"],
+  "compilerOptions": {
+    "noEmit": true
+  }
+}

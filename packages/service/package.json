@@ -6,10 +6,10 @@
   "scripts": {
     "build": "pnpm run compile",
     "clean": "rm -rf dist",
-    "compile": "tsc -p ./tsconfig.build.json",
+    "compile": "tsc -b",
     "format": "prettier --ignore-path ../../.prettierignore --write .",
     "lint": "eslint .",
-    "start": "node --env-file=.env dist/bin/start.js",
+    "start": "node --env-file=.env dist/src/bin/start.js",
     "dev": "pnpm run build && pnpm run start",
     "test": "node --test"
   },

@@ -1,12 +1,8 @@
 {
-  "compilerOptions": {
-    "allowJs": true,
-    "noEmit": true,
-    "module": "NodeNext",
-    "moduleResolution": "NodeNext",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "skipLibCheck": true
-  }
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.root.json" },
+    { "path": "./src/tsconfig.json" },
+    { "path": "./tests/tsconfig.json" }
+  ]
 }
