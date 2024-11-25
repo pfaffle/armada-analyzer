@@ -1,6 +1,6 @@
 import { describe, it } from "node:test";
 import request from "supertest";
-import { initApp } from "../app.js";
+import { initApp } from "../src/app.js";
 const app = initApp();
 
 describe("basic app", () => {

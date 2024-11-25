@@ -23,7 +23,7 @@ services:
     rootDir: packages/service/
     buildFilter:
       ignoredPaths:
-        - "src/__tests__/**/*"
+        - "tests/**/*"
     buildCommand: pnpm install --frozen-lockfile; pnpm run build
     startCommand: pnpm run start
     envVars:

@@ -1,2 +1,5 @@
 dist
 node_modules
+
+# TS incremental compilation temp files
+**/*.tsbuildinfo

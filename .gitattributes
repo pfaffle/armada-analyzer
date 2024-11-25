@@ -5,4 +5,4 @@
 *.json eol=lf
 *.yaml eol=lf
 # Use the original line endings for test data
-**/__tests__/__data__/* -text
+**/tests/data/* -text
