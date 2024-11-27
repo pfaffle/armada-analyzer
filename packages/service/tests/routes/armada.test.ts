@@ -11,9 +11,7 @@ describe("/armada/upload route", () => {
   const splitLogsPath = fs.mkdtempSync("/tmp/test-splitlogs-");
   const app = initApp();
   app.use("/armada", createArmadaRouter({ uploadsPath, splitLogsPath }));
-  const combatLog = readTestDataFile(
-    "2024-10-20 17-40-24-hirogen-combat-log.csv",
-  );
+  const combatLog = readTestDataFile("in/hirogen-log.csv");
 
   it("returns success", async () => {
     const response = await request(app)
