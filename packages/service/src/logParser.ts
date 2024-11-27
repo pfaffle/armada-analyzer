@@ -9,19 +9,17 @@ export async function splitRawLog(logPath: string, outputDir: string) {
   await fs.mkdir(outputDir, { recursive: true });
   const outFileBaseName = path.basename(logPath, ".csv");
   const inputLog = await fs.open(logPath);
-  let i = 1;
+  let i = 0;
   let writingFile = true;
   let outFile = path.join(outputDir, `${outFileBaseName}-${i}.csv`);
   let outputLog = await fs.open(outFile, "w+");
   let outputFiles: CombatLogSegment[] = [{ filePath: outFile }];
   for await (const line of inputLog.readLines()) {
     if (line === "") {
-      // end of a raw log segment
+      // end of a raw log segment, keep skipping any additional blank lines
       writingFile = false;
     } else {
-      if (writingFile) {
-        await outputLog.writeFile(`${line}\n`);
-      } else {
+      if (!writingFile) {
         // close csv, start writing new csv
         await outputLog.close();
         i = i + 1;
@@ -30,6 +28,7 @@ export async function splitRawLog(logPath: string, outputDir: string) {
         outputFiles = outputFiles.concat([{ filePath: outFile }]);
         writingFile = true;
       }
+      await outputLog.writeFile(`${line}\n`);
     }
   }
   await inputLog.close();

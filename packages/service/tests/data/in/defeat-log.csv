@@ -1,0 +1,583 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+pfaffle	43	DEFEAT	REALTA	20	164455	0	Carol Freeman	Gabriel Lorca	Cadet Montgomery Scott	84496	0	159453	0	Aodaan	11/20/2024 7:18:00 PM
+AnnaHell	49	VICTORY	REALTA	20	231317	0	Carol Freeman	Gabriel Lorca	Honorguard Worf	82601	66770	236175	172860	Aodaan	11/20/2024 7:18:00 PM
+
+Reward Name	Count
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	1968	2350	160137	Enhanced Shield	Vocal Jazz	Cerritos Strong!	Quick Thinking	Warp Theory	1	1550	24	24	405	0.12	2.25	1	49	404	17	1	159453	160821	227	22	24.32	14600	0	1	NO	NO
+Enemy Fleet 1	2848	3340	225129	Enhanced Shield	Vocal Jazz	Cerritos Strong!	Quick Thinking	Rage of Khitomer	1	2276	35	36	558	0.12	2.45	1	72	572	24	1	236175	214082	238	33	37.06	15400	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	1	Vocal Jazz	Carol Freeman	--	--	--
+1	2	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.12	Tertiary Adjunct	Seven of Nine	--	--	--
+1	3	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	1	Vocal Jazz	Carol Freeman	--	--	--
+1	4	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Rage of Khitomer	Honorguard Worf	--	--	--
+1	5	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+1	6	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+1	7	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+1	8	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+1	9	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+1	10	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	354	562	786	125	864	1052	--	--	--	--	--	--	--
+1	11	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	362	574	803	128	883	1075	--	--	--	--	--	--	--
+1	12	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	750	3000	2898	2634	894	4700	5476	--	--	--	--	--	--	--
+1	13	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	232	926	895	813	276	1451	1691	--	--	--	--	--	--	--
+1	14	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	373	591	827	131	908	1107	--	--	--	--	--	--	--
+1	15	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	355	563	786	125	865	1053	--	--	--	--	--	--	--
+1	16	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	239	958	924	840	285	1499	1747	--	--	--	--	--	--	--
+1	17	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	768	3071	2967	2696	915	4811	5606	--	--	--	--	--	--	--
+2	19	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+2	20	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+2	21	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+2	22	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+2	23	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+2	24	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	373	592	828	132	910	1108	--	--	--	--	--	--	--
+2	25	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	362	573	801	128	881	1073	--	--	--	--	--	--	--
+2	26	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	817	3268	3157	2869	974	5120	5965	--	--	--	--	--	--	--
+2	27	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	785	3138	3032	2755	935	4917	5728	--	--	--	--	--	--	--
+2	28	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	83	330	524	734	116	805	982	--	--	--	--	--	--	--
+2	29	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	352	558	780	124	858	1044	--	--	--	--	--	--	--
+2	30	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	795	3180	3073	2793	948	4983	5806	--	--	--	--	--	--	--
+2	31	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	233	933	901	819	278	1461	1703	--	--	--	--	--	--	--
+3	33	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+3	34	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+3	35	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+3	36	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+3	37	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+3	38	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	353	560	784	124	860	1049	--	--	--	--	--	--	--
+3	39	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	378	600	839	133	922	1123	--	--	--	--	--	--	--
+3	40	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	226	906	875	795	269	1418	1653	--	--	--	--	--	--	--
+3	41	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	225	898	867	788	267	1406	1639	--	--	--	--	--	--	--
+3	42	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	82	329	522	730	116	802	977	--	--	--	--	--	--	--
+3	43	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	362	574	802	128	883	1074	--	--	--	--	--	--	--
+3	44	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	750	3002	2900	2636	894	4702	5480	--	--	--	--	--	--	--
+3	45	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	836	3344	3230	2935	996	5238	6103	--	--	--	--	--	--	--
+4	47	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+4	48	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+4	49	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+4	50	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+4	51	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+4	52	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	97	387	613	857	136	942	1148	--	--	--	--	--	--	--
+4	53	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	381	603	843	134	927	1129	--	--	--	--	--	--	--
+4	54	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	833	3332	3219	2926	993	5220	6083	--	--	--	--	--	--	--
+4	55	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	752	3007	2905	2639	896	4711	5488	--	--	--	--	--	--	--
+4	56	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	92	368	584	816	130	898	1092	--	--	--	--	--	--	--
+4	57	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	373	592	828	132	910	1108	--	--	--	--	--	--	--
+4	58	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	802	3210	3101	2818	956	5028	5859	--	--	--	--	--	--	--
+4	59	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	786	3145	3038	2761	937	4926	5741	--	--	--	--	--	--	--
+5	61	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+5	62	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+5	63	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+5	64	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+5	65	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	336	532	744	118	818	996	--	--	--	--	--	--	--
+5	66	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	385	611	854	136	939	1143	--	--	--	--	--	--	--
+5	67	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	820	3282	3170	2880	978	5141	5989	--	--	--	--	--	--	--
+5	68	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	788	3152	3045	2767	939	4938	5753	--	--	--	--	--	--	--
+5	69	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	351	557	778	124	856	1042	--	--	--	--	--	--	--
+5	70	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	365	579	810	129	890	1084	--	--	--	--	--	--	--
+5	71	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	718	2870	2773	2520	855	4496	5240	--	--	--	--	--	--	--
+5	72	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	792	3167	3060	2780	944	4962	5781	--	--	--	--	--	--	--
+6	74	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+6	75	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+6	76	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+6	77	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+6	78	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+6	79	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	360	571	798	127	878	1068	--	--	--	--	--	--	--
+6	80	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	83	333	527	736	117	810	986	--	--	--	--	--	--	--
+6	81	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	228	913	882	802	272	1430	1667	--	--	--	--	--	--	--
+6	82	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	773	3094	2989	2716	922	4847	5647	--	--	--	--	--	--	--
+6	83	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	345	546	764	121	839	1023	--	--	--	--	--	--	--
+6	84	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	358	567	793	126	872	1062	--	--	--	--	--	--	--
+6	85	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	747	2987	2885	2621	890	4679	5451	--	--	--	--	--	--	--
+6	86	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	707	2829	2732	2482	843	4431	5162	--	--	--	--	--	--	--
+7	88	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+7	89	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+7	90	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+7	91	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+7	92	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	92	369	586	819	130	900	1096	--	--	--	--	--	--	--
+7	93	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	339	538	752	120	827	1007	--	--	--	--	--	--	--
+7	94	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	793	3174	3066	2786	946	4972	5793	--	--	--	--	--	--	--
+7	95	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	212	849	819	744	252	1328	1548	--	--	--	--	--	--	--
+7	96	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	336	532	744	118	818	996	--	--	--	--	--	--	--
+7	97	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	357	565	790	126	869	1058	--	--	--	--	--	--	--
+7	98	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	796	3186	3077	2796	949	4990	5814	--	--	--	--	--	--	--
+7	99	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	205	820	792	720	244	1284	1497	--	--	--	--	--	--	--
+8	101	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+8	102	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+8	103	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+8	104	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	62	250	580	258	88	892	346	--	--	--	--	--	--	--
+8	105	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	58	233	541	240	82	832	322	--	--	--	--	--	--	--
+8	106	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	216	862	829	755	257	1348	1571	--	--	--	--	--	--	--
+8	107	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	739	2958	2846	2592	881	4626	5390	--	--	--	--	--	--	--
+8	108	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	62	250	580	258	88	892	346	--	--	--	--	--	--	--
+8	109	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	62	250	580	258	88	892	346	--	--	--	--	--	--	--
+8	110	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	826	3303	3179	2897	984	5167	6022	--	--	--	--	--	--	--
+8	111	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	YES	838	3351	3224	2937	998	5241	6107	--	--	--	--	--	--	--
+9	113	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+9	114	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+9	115	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+9	116	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	57	230	535	238	81	822	319	--	--	--	--	--	--	--
+9	117	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	59	234	546	243	82	839	325	--	--	--	--	--	--	--
+9	118	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	239	954	919	837	284	1493	1740	--	--	--	--	--	--	--
+9	119	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	220	882	848	773	262	1378	1607	--	--	--	--	--	--	--
+9	120	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	57	227	528	235	80	812	315	--	--	--	--	--	--	--
+9	121	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	63	254	591	264	89	908	353	--	--	--	--	--	--	--
+9	122	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	232	928	893	813	276	1451	1691	--	--	--	--	--	--	--
+9	123	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	225	898	864	786	267	1404	1636	--	--	--	--	--	--	--
+10	125	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+10	126	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+10	127	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+10	128	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	56	223	519	232	78	798	310	--	--	--	--	--	--	--
+10	129	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	59	234	545	243	82	838	325	--	--	--	--	--	--	--
+10	130	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	219	874	840	765	260	1366	1592	--	--	--	--	--	--	--
+10	131	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	207	828	796	725	246	1294	1508	--	--	--	--	--	--	--
+10	132	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	57	228	530	236	80	815	316	--	--	--	--	--	--	--
+10	133	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	55	221	513	228	78	789	306	--	--	--	--	--	--	--
+10	134	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	223	890	856	780	265	1392	1622	--	--	--	--	--	--	--
+10	135	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	203	812	781	711	242	1270	1479	--	--	--	--	--	--	--
+11	137	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+11	138	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+11	139	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+11	140	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+11	141	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+11	142	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	381	603	843	134	927	1129	--	--	--	--	--	--	--
+11	143	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	373	590	825	131	907	1105	--	--	--	--	--	--	--
+11	144	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	236	943	911	827	281	1477	1721	--	--	--	--	--	--	--
+11	145	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	205	819	791	718	244	1283	1494	--	--	--	--	--	--	--
+11	146	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	386	612	855	136	940	1145	--	--	--	--	--	--	--
+11	147	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	363	576	805	128	885	1078	--	--	--	--	--	--	--
+11	148	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	220	879	849	771	262	1377	1604	--	--	--	--	--	--	--
+11	149	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	240	961	928	843	286	1505	1753	--	--	--	--	--	--	--
+12	151	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+12	152	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+12	153	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+12	154	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+12	155	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	81	325	515	719	114	791	963	--	--	--	--	--	--	--
+12	156	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	354	561	784	125	862	1050	--	--	--	--	--	--	--
+12	157	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	212	849	820	745	253	1330	1549	--	--	--	--	--	--	--
+12	158	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	237	950	917	833	283	1487	1733	--	--	--	--	--	--	--
+12	159	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	340	539	753	120	829	1008	--	--	--	--	--	--	--
+12	160	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	354	561	785	125	863	1051	--	--	--	--	--	--	--
+12	161	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	216	862	833	758	257	1351	1575	--	--	--	--	--	--	--
+12	162	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	200	801	773	703	238	1253	1462	--	--	--	--	--	--	--
+13	164	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+13	165	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+13	166	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+13	167	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+13	168	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	363	576	805	128	885	1078	--	--	--	--	--	--	--
+13	169	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	384	608	851	135	935	1139	--	--	--	--	--	--	--
+13	170	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	212	846	818	743	252	1326	1545	--	--	--	--	--	--	--
+13	171	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	226	903	873	793	269	1415	1649	--	--	--	--	--	--	--
+13	172	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	378	599	836	133	920	1120	--	--	--	--	--	--	--
+13	173	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	345	546	764	121	839	1023	--	--	--	--	--	--	--
+13	174	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	213	853	823	748	254	1335	1556	--	--	--	--	--	--	--
+13	175	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	233	932	900	817	277	1459	1700	--	--	--	--	--	--	--
+14	177	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+14	178	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+14	179	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+14	180	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+14	181	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+14	182	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+14	183	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	354	552	763	125	849	1034	--	--	--	--	--	--	--
+14	184	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	358	559	772	126	859	1046	--	--	--	--	--	--	--
+14	185	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	200	801	865	649	238	1403	1350	--	--	--	--	--	--	--
+14	186	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	198	790	854	641	235	1385	1333	--	--	--	--	--	--	--
+14	187	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	371	580	801	131	891	1085	--	--	--	--	--	--	--
+14	188	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	87	349	543	750	123	835	1017	--	--	--	--	--	--	--
+14	189	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	214	858	927	695	255	1503	1446	--	--	--	--	--	--	--
+14	190	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	201	803	868	652	239	1408	1355	--	--	--	--	--	--	--
+15	192	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+15	193	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+15	194	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+15	195	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+15	196	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+15	197	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+15	198	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	98	392	611	843	138	939	1143	--	--	--	--	--	--	--
+15	199	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	98	392	611	843	138	939	1143	--	--	--	--	--	--	--
+15	200	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	179	716	773	580	213	1254	1207	--	--	--	--	--	--	--
+15	201	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	203	812	878	659	242	1424	1370	--	--	--	--	--	--	--
+15	202	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	354	552	762	125	849	1033	--	--	--	--	--	--	--
+15	203	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	371	579	800	131	890	1084	--	--	--	--	--	--	--
+15	204	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	205	821	887	666	244	1438	1385	--	--	--	--	--	--	--
+15	205	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	214	856	926	694	255	1501	1444	--	--	--	--	--	--	--
+16	207	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+16	208	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+16	209	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+16	210	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+16	211	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+16	212	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+16	213	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	366	571	788	129	877	1068	--	--	--	--	--	--	--
+16	214	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	371	579	800	131	890	1084	--	--	--	--	--	--	--
+16	215	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	185	739	799	599	220	1296	1246	--	--	--	--	--	--	--
+16	216	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	183	733	793	595	218	1285	1237	--	--	--	--	--	--	--
+16	217	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	92	368	574	792	130	882	1074	--	--	--	--	--	--	--
+16	218	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	378	590	815	133	906	1105	--	--	--	--	--	--	--
+16	219	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	191	764	825	619	227	1338	1288	--	--	--	--	--	--	--
+16	220	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	185	741	801	601	220	1298	1250	--	--	--	--	--	--	--
+17	222	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+17	223	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+17	224	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+17	225	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+17	226	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+17	227	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+17	228	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	344	535	739	121	823	1002	--	--	--	--	--	--	--
+17	229	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	375	585	808	132	899	1095	--	--	--	--	--	--	--
+17	230	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	205	822	888	667	244	1440	1386	--	--	--	--	--	--	--
+17	231	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	195	781	844	633	232	1368	1317	--	--	--	--	--	--	--
+17	232	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	82	329	513	708	116	788	960	--	--	--	--	--	--	--
+17	233	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	339	529	730	120	813	990	--	--	--	--	--	--	--
+17	234	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	198	793	857	643	236	1390	1337	--	--	--	--	--	--	--
+17	235	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	182	727	786	589	216	1274	1226	--	--	--	--	--	--	--
+18	237	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+18	238	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+18	239	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+18	240	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+18	241	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	82	328	512	707	116	787	958	--	--	--	--	--	--	--
+18	242	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	346	539	744	122	829	1008	--	--	--	--	--	--	--
+18	243	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	214	858	927	695	255	1503	1446	--	--	--	--	--	--	--
+18	244	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	207	826	894	670	246	1449	1394	--	--	--	--	--	--	--
+18	245	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	97	388	604	834	137	929	1131	--	--	--	--	--	--	--
+18	246	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	378	589	814	133	905	1103	--	--	--	--	--	--	--
+18	247	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	213	852	921	691	253	1493	1437	--	--	--	--	--	--	--
+18	248	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	198	790	855	642	235	1386	1334	--	--	--	--	--	--	--
+19	250	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+19	251	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+19	252	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+19	253	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	82	330	532	683	116	818	925	--	--	--	--	--	--	--
+19	254	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	362	583	748	127	896	1014	--	--	--	--	--	--	--
+19	255	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	190	758	816	613	226	1327	1276	--	--	--	--	--	--	--
+19	256	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	189	755	813	611	225	1322	1271	--	--	--	--	--	--	--
+19	257	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	374	602	773	132	926	1048	--	--	--	--	--	--	--
+19	258	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	335	541	693	118	831	940	--	--	--	--	--	--	--
+19	259	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	208	830	894	672	247	1453	1398	--	--	--	--	--	--	--
+19	260	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	205	820	883	665	244	1435	1382	--	--	--	--	--	--	--
+20	262	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+20	263	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+20	264	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+20	265	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+20	266	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+20	267	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	384	599	828	135	920	1122	--	--	--	--	--	--	--
+20	268	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	342	535	739	121	822	1001	--	--	--	--	--	--	--
+20	269	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	187	748	808	606	222	1310	1261	--	--	--	--	--	--	--
+20	270	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	200	798	863	647	237	1399	1346	--	--	--	--	--	--	--
+20	271	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	366	571	788	129	877	1068	--	--	--	--	--	--	--
+20	272	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	377	587	812	133	903	1100	--	--	--	--	--	--	--
+20	273	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	212	846	915	686	252	1484	1427	--	--	--	--	--	--	--
+20	274	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	186	742	802	601	221	1301	1251	--	--	--	--	--	--	--
+21	276	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+21	277	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+21	278	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+21	279	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+21	280	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+21	281	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	82	330	522	730	116	802	978	--	--	--	--	--	--	--
+21	282	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	82	328	520	727	115	799	973	--	--	--	--	--	--	--
+21	283	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	238	952	919	835	283	1490	1737	--	--	--	--	--	--	--
+21	284	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	227	908	877	797	270	1422	1657	--	--	--	--	--	--	--
+21	285	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	381	604	845	134	928	1131	--	--	--	--	--	--	--
+21	286	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	342	542	757	121	834	1014	--	--	--	--	--	--	--
+21	287	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	222	888	857	779	264	1390	1620	--	--	--	--	--	--	--
+21	288	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	230	920	889	807	274	1441	1679	--	--	--	--	--	--	--
+22	290	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+22	291	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+22	292	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+22	293	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+22	294	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	339	538	752	120	827	1007	--	--	--	--	--	--	--
+22	295	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	335	531	742	118	816	994	--	--	--	--	--	--	--
+22	296	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	221	884	854	776	263	1385	1613	--	--	--	--	--	--	--
+22	297	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	212	846	818	743	252	1326	1545	--	--	--	--	--	--	--
+22	298	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	374	593	828	132	912	1109	--	--	--	--	--	--	--
+22	299	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	82	326	517	723	115	795	968	--	--	--	--	--	--	--
+22	300	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	221	886	855	778	264	1387	1617	--	--	--	--	--	--	--
+22	301	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	227	908	877	797	270	1422	1657	--	--	--	--	--	--	--
+23	303	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+23	304	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+23	305	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+23	306	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+23	307	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+23	308	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	352	558	780	124	858	1044	--	--	--	--	--	--	--
+23	309	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	342	543	760	121	835	1017	--	--	--	--	--	--	--
+23	310	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	203	814	786	714	242	1274	1485	--	--	--	--	--	--	--
+23	311	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	220	880	850	772	262	1378	1606	--	--	--	--	--	--	--
+23	312	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	87	347	550	769	122	845	1030	--	--	--	--	--	--	--
+23	313	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	383	608	849	135	934	1137	--	--	--	--	--	--	--
+23	314	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	212	849	820	745	253	1330	1549	--	--	--	--	--	--	--
+23	315	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	232	926	895	813	276	1451	1691	--	--	--	--	--	--	--
+24	317	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+24	318	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+24	319	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+24	320	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+24	321	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	374	593	828	132	912	1109	--	--	--	--	--	--	--
+24	322	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	382	606	847	135	932	1134	--	--	--	--	--	--	--
+24	323	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	225	902	871	792	268	1412	1646	--	--	--	--	--	--	--
+24	324	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	240	961	928	843	286	1505	1753	--	--	--	--	--	--	--
+24	325	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	365	578	809	129	889	1083	--	--	--	--	--	--	--
+24	326	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	383	607	848	135	933	1136	--	--	--	--	--	--	--
+24	327	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	219	877	847	769	261	1373	1600	--	--	--	--	--	--	--
+24	328	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	206	822	794	722	245	1288	1501	--	--	--	--	--	--	--
+25	330	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+25	331	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+25	332	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+25	333	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+25	334	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	377	597	835	133	918	1118	--	--	--	--	--	--	--
+25	335	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	83	330	524	732	116	805	980	--	--	--	--	--	--	--
+25	336	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	206	826	797	725	246	1293	1507	--	--	--	--	--	--	--
+25	337	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	224	895	864	785	266	1401	1633	--	--	--	--	--	--	--
+25	338	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	81	326	516	722	115	794	966	--	--	--	--	--	--	--
+25	339	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	385	611	854	136	939	1143	--	--	--	--	--	--	--
+25	340	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	227	910	879	799	271	1425	1661	--	--	--	--	--	--	--
+25	341	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	205	819	791	718	244	1283	1494	--	--	--	--	--	--	--
+26	343	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+26	344	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+26	345	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+26	346	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+26	347	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	357	566	792	126	870	1060	--	--	--	--	--	--	--
+26	348	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	359	570	797	127	876	1067	--	--	--	--	--	--	--
+26	349	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	214	856	827	752	255	1341	1563	--	--	--	--	--	--	--
+26	350	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	221	885	854	776	263	1385	1614	--	--	--	--	--	--	--
+26	351	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	361	573	801	127	880	1072	--	--	--	--	--	--	--
+26	352	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	97	387	614	859	137	944	1150	--	--	--	--	--	--	--
+26	353	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	208	832	804	731	248	1304	1519	--	--	--	--	--	--	--
+26	354	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	229	916	884	803	273	1434	1671	--	--	--	--	--	--	--
+27	356	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+27	357	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+27	358	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+27	359	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+27	360	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+27	361	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	365	579	810	129	890	1084	--	--	--	--	--	--	--
+27	362	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	97	386	612	856	136	941	1146	--	--	--	--	--	--	--
+27	363	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	219	874	844	768	260	1369	1596	--	--	--	--	--	--	--
+27	364	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	213	851	822	747	253	1332	1554	--	--	--	--	--	--	--
+27	365	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	373	590	825	131	907	1105	--	--	--	--	--	--	--
+27	366	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	375	595	832	132	914	1114	--	--	--	--	--	--	--
+27	367	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	230	919	887	806	274	1439	1677	--	--	--	--	--	--	--
+27	368	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	229	916	884	803	273	1434	1671	--	--	--	--	--	--	--
+28	370	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+28	371	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+28	372	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+28	373	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	81	325	515	721	114	791	965	--	--	--	--	--	--	--
+28	374	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	341	540	755	120	830	1011	--	--	--	--	--	--	--
+28	375	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	238	953	920	836	284	1492	1739	--	--	--	--	--	--	--
+28	376	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	234	937	905	822	279	1467	1710	--	--	--	--	--	--	--
+28	377	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	82	326	518	724	115	796	969	--	--	--	--	--	--	--
+28	378	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	362	575	805	128	884	1077	--	--	--	--	--	--	--
+28	379	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	212	850	820	745	253	1330	1550	--	--	--	--	--	--	--
+28	380	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	217	866	837	761	258	1357	1582	--	--	--	--	--	--	--
+29	382	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+29	383	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+29	384	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+29	385	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	92	366	588	756	129	906	1025	--	--	--	--	--	--	--
+29	386	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	378	609	782	133	937	1060	--	--	--	--	--	--	--
+29	387	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	114	456	833	171	136	1354	356	--	--	--	--	--	--	--
+29	388	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	116	465	848	174	138	1379	362	--	--	--	--	--	--	--
+29	389	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	345	555	714	121	854	967	--	--	--	--	--	--	--
+29	390	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	87	347	559	719	122	860	974	--	--	--	--	--	--	--
+29	391	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	123	491	898	184	146	1459	383	--	--	--	--	--	--	--
+29	392	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	122	487	890	182	145	1446	380	--	--	--	--	--	--	--
+30	394	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+30	395	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+30	396	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+30	397	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+30	398	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+30	399	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	97	390	607	838	137	933	1136	--	--	--	--	--	--	--
+30	400	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	378	590	815	133	906	1105	--	--	--	--	--	--	--
+30	401	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	209	835	903	678	248	1464	1409	--	--	--	--	--	--	--
+30	402	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	189	758	819	614	225	1327	1278	--	--	--	--	--	--	--
+30	403	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	352	548	758	124	843	1027	--	--	--	--	--	--	--
+30	404	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	342	533	736	120	819	997	--	--	--	--	--	--	--
+30	405	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	190	762	823	617	227	1335	1284	--	--	--	--	--	--	--
+30	406	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	213	854	923	693	254	1497	1440	--	--	--	--	--	--	--
+31	408	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+31	409	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+31	410	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+31	411	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+31	412	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+31	413	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+31	414	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	98	392	611	843	138	939	1143	--	--	--	--	--	--	--
+31	415	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	370	578	798	130	888	1081	--	--	--	--	--	--	--
+31	416	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	196	786	849	636	234	1377	1324	--	--	--	--	--	--	--
+31	417	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	182	727	786	590	216	1274	1227	--	--	--	--	--	--	--
+31	418	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	97	390	608	839	137	934	1137	--	--	--	--	--	--	--
+31	419	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	383	597	824	135	918	1117	--	--	--	--	--	--	--
+31	420	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	180	719	778	584	214	1261	1214	--	--	--	--	--	--	--
+31	421	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	194	775	838	629	231	1359	1308	--	--	--	--	--	--	--
+32	423	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+32	424	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+32	425	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+32	426	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	87	346	540	746	122	830	1011	--	--	--	--	--	--	--
+32	427	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	83	330	515	710	116	791	963	--	--	--	--	--	--	--
+32	428	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	195	781	844	632	232	1368	1316	--	--	--	--	--	--	--
+32	429	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	181	724	783	587	215	1269	1221	--	--	--	--	--	--	--
+32	430	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	97	389	606	838	137	932	1135	--	--	--	--	--	--	--
+32	431	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	340	530	731	120	815	991	--	--	--	--	--	--	--
+32	432	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	204	817	883	663	243	1432	1378	--	--	--	--	--	--	--
+32	433	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	188	750	811	608	223	1315	1265	--	--	--	--	--	--	--
+32	434	Shield Depleted	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+33	436	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+33	437	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+33	438	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	358	575	739	126	885	1002	--	--	--	--	--	--	--
+33	439	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	335	539	693	118	830	939	--	--	--	--	--	--	--
+33	440	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	629	0	919	188	150	1494	392	--	--	--	--	--	--	--
+33	441	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	601	0	877	180	143	1426	375	--	--	--	--	--	--	--
+33	442	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	376	605	779	133	932	1055	--	--	--	--	--	--	--
+33	443	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	81	324	521	670	114	802	908	--	--	--	--	--	--	--
+33	444	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	541	0	790	162	128	1284	337	--	--	--	--	--	--	--
+33	445	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	568	0	830	171	135	1349	355	--	--	--	--	--	--	--
+34	447	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+34	448	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+34	449	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+34	450	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+34	451	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	334	520	719	118	801	974	--	--	--	--	--	--	--
+34	452	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	99	394	613	849	139	944	1150	--	--	--	--	--	--	--
+34	453	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	542	0	796	163	129	1291	339	--	--	--	--	--	--	--
+34	454	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	584	0	858	176	139	1391	366	--	--	--	--	--	--	--
+34	455	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	98	392	609	843	138	938	1142	--	--	--	--	--	--	--
+34	456	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	380	590	816	134	909	1106	--	--	--	--	--	--	--
+34	457	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	599	0	879	180	142	1425	375	--	--	--	--	--	--	--
+34	458	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	577	0	847	173	137	1373	361	--	--	--	--	--	--	--
+35	460	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+35	461	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+35	462	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	370	575	796	131	886	1079	--	--	--	--	--	--	--
+35	463	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	384	596	825	135	918	1118	--	--	--	--	--	--	--
+35	464	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	538	0	790	162	128	1281	337	--	--	--	--	--	--	--
+35	465	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	569	0	836	171	135	1355	356	--	--	--	--	--	--	--
+35	466	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	83	331	515	713	117	793	966	--	--	--	--	--	--	--
+35	467	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	366	568	787	129	875	1066	--	--	--	--	--	--	--
+35	468	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	619	0	910	187	147	1475	388	--	--	--	--	--	--	--
+35	469	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	537	0	788	161	128	1278	336	--	--	--	--	--	--	--
+36	471	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+36	472	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+36	473	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+36	474	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+36	475	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	381	614	788	134	944	1068	--	--	--	--	--	--	--
+36	476	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	81	324	522	671	114	803	909	--	--	--	--	--	--	--
+36	477	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	962	0	828	622	229	1346	1295	--	--	--	--	--	--	--
+36	478	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	927	0	798	600	220	1297	1248	--	--	--	--	--	--	--
+36	479	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	334	540	693	118	830	939	--	--	--	--	--	--	--
+36	480	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	81	325	525	674	115	807	913	--	--	--	--	--	--	--
+36	481	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	904	0	778	585	215	1265	1217	--	--	--	--	--	--	--
+36	482	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1061	0	914	687	253	1486	1429	--	--	--	--	--	--	--
+37	484	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+37	485	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+37	486	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+37	487	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+37	488	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+37	489	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+37	490	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	381	593	820	134	912	1111	--	--	--	--	--	--	--
+37	491	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	379	591	817	134	909	1107	--	--	--	--	--	--	--
+37	492	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	979	0	847	635	233	1373	1321	--	--	--	--	--	--	--
+37	493	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1032	0	893	670	246	1448	1393	--	--	--	--	--	--	--
+37	494	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	336	523	722	118	804	979	--	--	--	--	--	--	--
+37	495	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	353	550	760	124	845	1030	--	--	--	--	--	--	--
+37	496	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1062	0	918	689	253	1489	1433	--	--	--	--	--	--	--
+37	497	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	937	0	810	608	223	1313	1265	--	--	--	--	--	--	--
+38	499	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+38	500	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+38	501	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+38	502	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+38	503	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+38	504	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+38	505	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	338	526	727	119	809	985	--	--	--	--	--	--	--
+38	506	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	356	555	767	125	853	1039	--	--	--	--	--	--	--
+38	507	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	911	0	788	591	217	1278	1229	--	--	--	--	--	--	--
+38	508	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1065	0	921	692	254	1494	1438	--	--	--	--	--	--	--
+38	509	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	356	555	767	125	853	1039	--	--	--	--	--	--	--
+38	510	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	96	383	598	826	135	919	1119	--	--	--	--	--	--	--
+38	511	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	946	0	818	613	225	1326	1276	--	--	--	--	--	--	--
+38	512	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	903	0	781	585	215	1266	1218	--	--	--	--	--	--	--
+39	514	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+39	515	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+39	516	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+39	517	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+39	518	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+39	519	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	83	332	518	715	117	796	969	--	--	--	--	--	--	--
+39	520	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	98	390	609	841	138	936	1140	--	--	--	--	--	--	--
+39	521	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1029	0	890	668	245	1443	1389	--	--	--	--	--	--	--
+39	522	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1052	0	910	683	250	1475	1420	--	--	--	--	--	--	--
+39	523	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	372	580	801	131	891	1086	--	--	--	--	--	--	--
+39	524	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	354	551	762	124	847	1032	--	--	--	--	--	--	--
+39	525	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	966	0	835	626	230	1354	1303	--	--	--	--	--	--	--
+39	526	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	976	0	844	633	232	1368	1317	--	--	--	--	--	--	--
+40	528	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+40	529	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+40	530	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+40	531	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+40	532	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+40	533	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	377	608	780	133	935	1057	--	--	--	--	--	--	--
+40	534	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	89	358	577	741	126	887	1004	--	--	--	--	--	--	--
+40	535	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	983	0	847	636	234	1376	1324	--	--	--	--	--	--	--
+40	536	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	933	0	804	604	222	1306	1257	--	--	--	--	--	--	--
+40	537	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	350	566	727	124	870	985	--	--	--	--	--	--	--
+40	538	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	364	587	754	128	902	1022	--	--	--	--	--	--	--
+40	539	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1032	0	889	669	246	1445	1391	--	--	--	--	--	--	--
+40	540	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	938	0	807	607	223	1312	1263	--	--	--	--	--	--	--
+41	542	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+41	543	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+41	544	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+41	545	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+41	546	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+41	547	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+41	548	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	378	589	814	133	905	1103	--	--	--	--	--	--	--
+41	549	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	359	561	775	127	862	1050	--	--	--	--	--	--	--
+41	550	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1007	0	871	654	240	1413	1359	--	--	--	--	--	--	--
+41	551	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1014	0	877	658	241	1422	1368	--	--	--	--	--	--	--
+41	552	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	98	394	613	847	139	943	1148	--	--	--	--	--	--	--
+41	553	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	84	335	522	722	118	803	978	--	--	--	--	--	--	--
+41	554	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1008	0	872	655	240	1414	1361	--	--	--	--	--	--	--
+41	555	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	970	0	839	629	231	1360	1309	--	--	--	--	--	--	--
+42	557	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+42	558	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+42	559	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+42	560	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+42	561	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+42	562	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+42	563	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	338	528	729	119	811	988	--	--	--	--	--	--	--
+42	564	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	92	370	576	796	130	885	1079	--	--	--	--	--	--	--
+42	565	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	946	0	818	614	225	1326	1277	--	--	--	--	--	--	--
+42	566	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	967	0	836	627	230	1355	1305	--	--	--	--	--	--	--
+42	567	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	90	358	558	771	126	858	1045	--	--	--	--	--	--	--
+42	568	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	371	578	799	131	889	1083	--	--	--	--	--	--	--
+42	569	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	997	0	862	647	237	1398	1345	--	--	--	--	--	--	--
+42	570	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1008	0	872	655	240	1414	1361	--	--	--	--	--	--	--
+43	572	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+43	573	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+43	574	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+43	575	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+43	576	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+43	577	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+43	578	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	95	378	590	815	133	906	1105	--	--	--	--	--	--	--
+43	579	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	365	569	785	129	875	1064	--	--	--	--	--	--	--
+43	580	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	896	0	775	582	213	1256	1210	--	--	--	--	--	--	--
+43	581	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	935	0	809	607	222	1311	1262	--	--	--	--	--	--	--
+43	582	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	93	374	582	804	132	895	1090	--	--	--	--	--	--	--
+43	583	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	86	344	537	742	121	825	1005	--	--	--	--	--	--	--
+43	584	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	962	0	832	624	229	1349	1298	--	--	--	--	--	--	--
+43	585	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	913	0	789	592	217	1279	1232	--	--	--	--	--	--	--
+44	587	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.7	Quick Thinking	Gabriel Lorca	--	--	--
+44	588	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+44	589	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+44	590	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+44	591	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+44	592	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	97	387	604	834	136	928	1130	--	--	--	--	--	--	--
+44	593	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	365	569	787	129	875	1066	--	--	--	--	--	--	--
+44	594	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	972	0	840	630	231	1362	1311	--	--	--	--	--	--	--
+44	595	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1036	0	896	672	247	1453	1398	--	--	--	--	--	--	--
+44	596	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	85	340	530	733	120	815	993	--	--	--	--	--	--	--
+44	597	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	88	352	548	758	124	843	1027	--	--	--	--	--	--	--
+44	598	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	995	0	861	646	237	1396	1343	--	--	--	--	--	--	--
+44	599	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1044	0	903	678	248	1464	1409	--	--	--	--	--	--	--
+45	601	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+45	602	Officer Ability	AnnaHell	Prime Syndicate	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.5	Bedside Manner	Doctor T'Ana	--	--	--
+45	603	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+45	604	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.45	Adapt and Assimilate	Dezoc	--	--	--
+45	605	Officer Ability	pfaffle	ROEandPEACE	REALTA	NO	--	--	REALTA	NO	--	--	--	--	--	--	--	--	Officer	0.6	Cerritos Strong!	Carol Freeman	--	--	--
+45	606	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	83	333	519	717	117	797	972	--	--	--	--	--	--	--
+45	607	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	362	565	780	128	869	1057	--	--	--	--	--	--	--
+45	608	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	998	0	863	647	237	1399	1346	--	--	--	--	--	--	--
+45	609	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	933	0	807	605	222	1308	1259	--	--	--	--	--	--	--
+45	610	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	94	376	586	809	133	901	1097	--	--	--	--	--	--	--
+45	611	Attack	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	NO	91	366	570	787	129	876	1067	--	--	--	--	--	--	--
+45	612	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	1047	0	905	680	249	1468	1413	--	--	--	--	--	--	--
+45	613	Combatant Destroyed	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+45	614	Attack	AnnaHell	Prime Syndicate	REALTA	NO	pfaffle	ROEandPEACE	REALTA	NO	NO	902	0	780	584	215	1265	1216	--	--	--	--	--	--	--
+45	615	Combatant Destroyed	pfaffle	ROEandPEACE	REALTA	NO	AnnaHell	Prime Syndicate	REALTA	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

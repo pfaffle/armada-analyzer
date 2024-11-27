@@ -4,5 +4,4 @@
 *.ts eol=lf
 *.json eol=lf
 *.yaml eol=lf
-# Use the original line endings for test data
-**/tests/data/* -text
+

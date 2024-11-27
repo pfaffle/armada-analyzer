@@ -7,7 +7,7 @@
     {
       "name": "Debug tests",
       "request": "launch",
-      "runtimeArgs": ["run", "test"],
+      "runtimeArgs": ["test"],
       "runtimeExecutable": "pnpm",
       "skipFiles": ["<node_internals>/**"],
       "type": "node"
