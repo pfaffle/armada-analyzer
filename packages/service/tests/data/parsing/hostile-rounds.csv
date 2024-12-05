@@ -1,0 +1,39 @@
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	1.2	Teaching Moments	Christopher Pike	--	--	--
+1	2	Officer Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.6	No Fear	Marlena Moreau	--	--	--
+1	3	Officer Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.2	Objective Defense	T'Laan	--	--	--
+1	4	Officer Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	2.5	War's Almost Over	Tom Paris	--	--	--
+1	5	Forbidden Tech Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	13.5	--	Metreon Cascade Warhead	--	--	--
+1	6	Attack	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	pfaffle	ROEandPEACE	VALDORE	NO	NO	18453	73811	228096	0	0	320360	0	--	--	--	--	--	--	--
+1	7	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	185103	740413	712524	0	0	1300032	338008	--	--	--	--	--	--	--
+1	8	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	178725	714899	687971	0	0	1255234	326361	--	--	--	--	--	--	--
+1	9	Officer Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.5	Resist and Retaliate	Hugh	--	--	--
+1	10	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	YES	595200	2380801	2291124	0	0	4180258	1086867	--	--	--	--	--	--	--
+1	11	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	160075	640299	616181	0	0	1124250	292305	--	--	--	--	--	--	--
+1	12	Charging Weapons	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	14	battle_action_type_{0}	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	--	--	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	HullRepair	738.12	--	--	--
+2	15	Officer Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.3	To the Journey!	Harry Kim	--	--	--
+2	16	Attack	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	pfaffle	ROEandPEACE	VALDORE	NO	NO	19157	76627	236798	0	0	332582	0	--	--	--	--	--	--	--
+2	17	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	217132	868528	693453	0	0	1268982	510131	--	--	--	--	--	--	--
+2	18	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	218836	875346	698896	0	0	1278943	514135	--	--	--	--	--	--	--
+2	19	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	YES	783471	3133883	2502167	0	0	4578831	1840690	--	--	--	--	--	--	--
+2	20	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	YES	725821	2903286	2318052	0	0	4241911	1705248	--	--	--	--	--	--	--
+2	21	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	YES	1568225	6272900	5008432	0	0	9165162	3684395	--	--	--	--	--	--	--
+2	22	Shield Depleted	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	pfaffle	ROEandPEACE	H-CLASS FREIGHTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+2	23	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	1891628	0	1208256	0	0	2211044	888840	--	--	--	--	--	--	--
+2	24	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	1837725	0	1173826	0	0	2148039	863512	--	--	--	--	--	--	--
+3	26	battle_action_type_{0}	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	--	--	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	HullRepair	766.28	--	--	--
+3	27	Attack	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	pfaffle	ROEandPEACE	VALDORE	NO	NO	21219	84877	262292	0	0	368388	0	--	--	--	--	--	--	--
+3	28	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	827397	0	636985	0	0	1162208	302174	--	--	--	--	--	--	--
+3	29	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	882583	0	679471	0	0	1239725	322329	--	--	--	--	--	--	--
+3	30	Officer Ability	pfaffle	ROEandPEACE	VALDORE	NO	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.5	Resist and Retaliate	Hugh	--	--	--
+3	31	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	918251	0	706930	0	0	1289826	335355	--	--	--	--	--	--	--
+3	32	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	823128	0	633699	0	0	1156212	300615	--	--	--	--	--	--	--
+3	33	Charging Weapons	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	35	battle_action_type_{0}	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	--	--	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	HullRepair	848.76	--	--	--
+4	36	Attack	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	pfaffle	ROEandPEACE	VALDORE	NO	NO	20903	83611	258381	0	0	362895	0	--	--	--	--	--	--	--
+4	37	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	809116	0	669965	0	0	1222381	256700	--	--	--	--	--	--	--
+4	38	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	750004	0	621019	0	0	1133077	237946	--	--	--	--	--	--	--
+4	39	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	NO	776521	0	642975	0	0	1173137	246359	--	--	--	--	--	--	--
+4	40	Attack	pfaffle	ROEandPEACE	VALDORE	NO	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	YES	2698467	0	2234387	0	0	4076739	856115	--	--	--	--	--	--	--
+4	41	Combatant Destroyed	Heavy Federation Transport	--	H-CLASS FREIGHTER	NO	pfaffle	ROEandPEACE	H-CLASS FREIGHTER	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--

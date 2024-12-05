@@ -1,0 +1,232 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+ManTheyCa11Jayne	55	VICTORY	CORVUS	25	247838304	0	Mirror Picard	Mirror Data	Honorguard Worf	217841865	199433587	145041174	86999031	Morska	12/2/2024 4:29:13 AM
+
+Reward Name	Count
+Parsteel	728830
+Tritanium	16890
+Dilithium	2478
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	2406344	2019515	13714457	Optimized Crew Interface	Silver Tongue	Manipulate, Cajole, Deceive	Created To Win	Breen Served Cold	3	1806713	27294	31192	384929	0.12	2.25	3	15740	374108	14055	3	14409280	13019634	179	87	66.09	423400	0	1	NO	NO
+Player Fleet 2	3921124	30970970	31750828	Omega-13	Live Long	Prosper	It's all we have to go on	Modulation Frequency Found	4.5	3443028	67532	694713	45830	0.12	2.25	5	1034309	4101908	1057977	5	34449526	29052130	197	236	107.4	4292400	0	9	NO	NO
+Player Fleet 3	3556339	2161305	32203244	Modernity is Overrated	Ruthless Mastermind	Savage Tenacity	Impress With Your Opulence	Unflinching Resolve	5	3175321	60251	456125	60251	0.12	2.25	5	392245	26473	13543	5	25018962	39387525	153	159	77.93	3104580	0	1	NO	NO
+Player Fleet 4	117103166	44672565	45780395	--	--	--	--	--	0	0	0	0	0	0	0	0	0	0	0	0	16147711	75413078	0	0	0	0	0	0	NO	NO
+Enemy Fleet 1	44723528	21673264	181441520	Spirit of Vengeance	Take the Shot	Anticollective	Reflections	Rage of Khitomer	5.5	36907268	385350	406361	5055321	0.22	2.9	5.5	399707	3713140	221806	5.5	145041174	217841865	173	376	111.2	748200	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.75	Rage of Khitomer	Honorguard Worf	--	--	--
+1	2	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.18	Tertiary Adjunct	Seven of Nine	--	--	--
+1	3	Officer Ability	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.1	Guerrilla Strategy	Kira Nerys	--	--	--
+1	4	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.45	Reflections	Mirror Data	--	--	--
+1	5	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+1	6	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+1	7	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1.5	The One Who is Many	Borg Queen	--	--	--
+1	8	Officer Ability	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	1	Silver Tongue	Weyoun	--	--	--
+1	9	Officer Ability	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.8	Manipulate, Cajole, Deceive	Weyoun	--	--	--
+1	10	Officer Ability	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.53	Created To Win	Ikat'ika	--	--	--
+1	11	Officer Ability	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	--	--	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	Officer	0.52	Breen Served Cold	Pon	--	--	--
+1	12	Officer Ability	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.8	It's all we have to go on	TOS James T. Kirk	--	--	--
+1	13	Officer Ability	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	3	Live Long	TOS Spock	--	--	--
+1	14	Officer Ability	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.5	Prosper	TOS Spock	--	--	--
+1	15	Officer Ability	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Modulation Frequency Found	TOS Nyota Uhura	--	--	--
+1	16	Forbidden Tech Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	8	--	Red Matter	--	--	--
+1	17	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	100680	240608	275509	129096	478997	1031921	192969	--	--	--	--	--	--	--
+1	18	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	95050	227152	247721	120418	452209	962553	179997	--	--	--	--	--	--	--
+1	19	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	85596	204560	234232	109755	407233	877318	164058	--	--	--	--	--	--	--
+1	20	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	101067	241534	276569	129592	480840	1035891	193711	--	--	--	--	--	--	--
+1	21	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	429349	1026072	1174909	550531	2042682	4400626	822917	--	--	--	--	--	--	--
+1	22	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	NO	1815294	7261176	1701081	6389718	0	5443015	11724254	--	--	--	--	--	--	--
+1	23	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	NO	1858566	7434266	1741631	6542034	0	5572764	12003733	--	--	--	--	--	--	--
+1	24	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	25734	61501	405754	90479	122434	570657	135245	--	--	--	--	--	--	--
+1	25	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	27244	65110	429565	95789	129618	604144	143182	--	--	--	--	--	--	--
+1	26	Attack	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	34373	82144	412628	137487	163532	624653	205511	--	--	--	--	--	--	--
+1	27	Attack	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	31747	75871	381112	126985	151042	576943	189814	--	--	--	--	--	--	--
+1	28	Attack	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	20202	48279	290545	90339	96113	410442	135036	--	--	--	--	--	--	--
+1	29	Attack	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	22546	53881	324256	100820	107265	458065	150703	--	--	--	--	--	--	--
+1	30	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	85335	203936	233517	109420	405991	874641	163558	--	--	--	--	--	--	--
+1	31	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	111267	265909	289988	140963	529366	1126785	210708	--	--	--	--	--	--	--
+1	32	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	92080	220054	251975	118068	438080	943772	176485	--	--	--	--	--	--	--
+1	33	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	87792	209807	240241	112571	417679	899823	168267	--	--	--	--	--	--	--
+1	34	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	391570	935786	1071528	502089	1862944	4013410	750507	--	--	--	--	--	--	--
+1	35	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	NO	1922724	7690898	1735611	6728653	0	5731733	12346153	--	--	--	--	--	--	--
+1	36	Shield Depleted	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	ManTheyCa11Jayne	Dominion	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	37	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	NO	8970990	0	1619592	6278870	0	5348589	11520863	--	--	--	--	--	--	--
+1	38	Combatant Destroyed	pfaffle	ROEandPEACE	USS ENTERPRISE	NO	ManTheyCa11Jayne	Dominion	USS ENTERPRISE	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+1	39	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	484687	1158321	6525985	1540024	2305961	9712998	2301980	--	--	--	--	--	--	--
+1	40	Attack	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	39783	95076	545464	172603	189273	784198	258001	--	--	--	--	--	--	--
+1	41	Attack	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	37993	90796	520913	164834	180755	748902	246389	--	--	--	--	--	--	--
+1	42	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	99636	238114	272653	127758	474032	1021224	190969	--	--	--	--	--	--	--
+1	43	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	93015	222289	242418	117839	442528	941946	176143	--	--	--	--	--	--	--
+1	44	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	85453	204219	233841	109571	406554	875854	163784	--	--	--	--	--	--	--
+1	45	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	94968	226958	259879	121772	451822	973378	182021	--	--	--	--	--	--	--
+1	46	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	93285	222934	255272	119614	443812	956122	178795	--	--	--	--	--	--	--
+1	47	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	25976	62077	409560	91328	123582	576009	136514	--	--	--	--	--	--	--
+1	48	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	26329	62921	415124	92569	125261	583835	138369	--	--	--	--	--	--	--
+1	49	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	447932	1070482	1225762	574359	2131093	4591094	858534	--	--	--	--	--	--	--
+1	50	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	105019	250976	273703	133048	499638	1063508	198876	--	--	--	--	--	--	--
+1	51	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	88289	210996	241602	113208	420046	904921	169220	--	--	--	--	--	--	--
+1	52	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	90478	216228	247592	116015	430461	927358	173416	--	--	--	--	--	--	--
+1	53	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	87582	209307	239667	112301	416683	897675	167865	--	--	--	--	--	--	--
+1	54	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	95361	227895	260953	122276	453690	977401	182774	--	--	--	--	--	--	--
+1	55	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	92999	222253	242378	117821	442455	941791	176115	--	--	--	--	--	--	--
+1	56	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	97854	233855	267776	125473	465552	1002957	187553	--	--	--	--	--	--	--
+1	57	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	96084	229623	262931	123202	457129	984810	184159	--	--	--	--	--	--	--
+1	58	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	88320	211071	241688	113248	420195	905242	169280	--	--	--	--	--	--	--
+2	60	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+2	61	Officer Ability	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.8	It's all we have to go on	TOS James T. Kirk	--	--	--
+2	62	Officer Ability	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	3	Live Long	TOS Spock	--	--	--
+2	63	Officer Ability	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.5	Prosper	TOS Spock	--	--	--
+2	64	Officer Ability	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	--	--	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	Officer	0.1	Modulation Frequency Found	TOS Nyota Uhura	--	--	--
+2	65	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	705512	1686054	1129043	528453	964999	4224146	789915	--	--	--	--	--	--	--
+2	66	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	177528	424263	270521	131375	242823	1050135	196375	--	--	--	--	--	--	--
+2	67	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	163284	390222	261306	122305	223340	977639	182818	--	--	--	--	--	--	--
+2	68	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	147257	351918	235657	110300	201417	881676	164873	--	--	--	--	--	--	--
+2	69	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	156237	373381	250029	117027	213701	935447	174928	--	--	--	--	--	--	--
+2	70	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	NO	2236944	8947776	3502898	10377645	0	5447786	19617477	--	--	--	--	--	--	--
+2	71	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	NO	2041896	8167583	3197466	9472778	0	4972771	17906952	--	--	--	--	--	--	--
+2	72	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	44436	106195	410343	91410	60779	576526	136637	--	--	--	--	--	--	--
+2	73	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	44241	105728	408540	91008	60512	573993	136036	--	--	--	--	--	--	--
+2	74	Attack	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	40397	96542	342547	106139	55255	482227	158653	--	--	--	--	--	--	--
+2	75	Attack	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	41801	99897	354450	109826	57175	498984	164165	--	--	--	--	--	--	--
+2	76	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	150010	358497	240063	112363	205183	898160	167956	--	--	--	--	--	--	--
+2	77	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	184073	439904	280494	136217	251775	1088849	203614	--	--	--	--	--	--	--
+2	78	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	161639	386289	258673	121073	221089	967787	180976	--	--	--	--	--	--	--
+2	79	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	151057	361002	241739	113146	206616	904432	169128	--	--	--	--	--	--	--
+2	80	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	146165	349308	233909	109482	199923	875137	163650	--	--	--	--	--	--	--
+2	81	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	NO	2059077	8236307	3213074	9544502	0	5010423	18042537	--	--	--	--	--	--	--
+2	82	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	NO	2293638	9174553	3579094	10631770	0	5581190	20097865	--	--	--	--	--	--	--
+2	83	Attack	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	62156	148541	503831	158698	85016	721025	237217	--	--	--	--	--	--	--
+2	84	Attack	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	72617	173543	588631	185409	99325	842381	277144	--	--	--	--	--	--	--
+2	85	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	159929	382204	255937	119792	218751	957551	179062	--	--	--	--	--	--	--
+2	86	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	172254	411659	262484	127472	235609	1018937	190541	--	--	--	--	--	--	--
+2	87	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	167157	399478	267505	125207	228637	1000829	187155	--	--	--	--	--	--	--
+2	88	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	173585	414838	277791	130021	237429	1039313	194351	--	--	--	--	--	--	--
+2	89	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	159386	380905	255068	119385	218007	954298	178453	--	--	--	--	--	--	--
+2	90	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	NO	4445276	17781104	6907659	20584872	0	10806109	38912802	--	--	--	--	--	--	--
+2	91	Shield Depleted	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	92	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	NO	24068876	0	7480281	22291290	0	11701901	42138546	--	--	--	--	--	--	--
+2	93	Combatant Destroyed	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	94	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	NO	22030012	0	6846630	20403008	0	10710638	38569012	--	--	--	--	--	--	--
+2	95	Combatant Destroyed	pfaffle	ROEandPEACE	NSEA PROTECTOR	NO	ManTheyCa11Jayne	Dominion	NSEA PROTECTOR	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+2	96	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	43130	103072	398278	88722	58992	559575	132619	--	--	--	--	--	--	--
+2	97	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	46106	110185	425761	94845	63063	598189	141771	--	--	--	--	--	--	--
+2	98	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	154468	369154	247198	115702	211281	924855	172948	--	--	--	--	--	--	--
+2	99	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	163270	390189	248795	120823	223321	965795	180603	--	--	--	--	--	--	--
+2	100	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	163849	391572	262210	122729	224112	981021	183451	--	--	--	--	--	--	--
+2	101	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	152276	363913	243689	114060	208282	911727	170493	--	--	--	--	--	--	--
+2	102	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	155342	371241	248596	116356	212476	930085	173926	--	--	--	--	--	--	--
+2	103	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	768697	1837055	1230159	575781	1051423	4602456	860659	--	--	--	--	--	--	--
+2	104	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	183751	439134	280003	135979	251334	1086943	203258	--	--	--	--	--	--	--
+2	105	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	152379	364161	243855	114136	208424	912347	170608	--	--	--	--	--	--	--
+2	106	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	157367	376082	251838	117874	215247	942214	176194	--	--	--	--	--	--	--
+2	107	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	148778	355553	238091	111439	203497	890782	166576	--	--	--	--	--	--	--
+3	109	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+3	110	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	101140	404562	238738	111742	204051	893204	167029	--	--	--	--	--	--	--
+3	111	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	116297	465187	261393	126941	234629	1014699	189748	--	--	--	--	--	--	--
+3	112	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	104551	418206	246790	115511	210933	923329	172662	--	--	--	--	--	--	--
+3	113	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	500802	2003209	1182127	553300	1010370	4422753	827055	--	--	--	--	--	--	--
+3	114	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	104690	418758	247116	115663	211211	924548	172890	--	--	--	--	--	--	--
+3	115	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	MONAVEEN	NO	NO	2731904	10927617	1382484	10628040	0	5579231	20090814	--	--	--	--	--	--	--
+3	116	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	MONAVEEN	NO	NO	2759602	11038406	1396501	10735793	0	5635797	20294505	--	--	--	--	--	--	--
+3	117	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	129666	518665	1766155	393437	261602	2481427	588098	--	--	--	--	--	--	--
+3	118	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	31062	124247	423086	94249	62667	594431	140880	--	--	--	--	--	--	--
+3	119	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	NO	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	120	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	109360	437440	258140	120823	220634	965794	180603	--	--	--	--	--	--	--
+3	121	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	125628	502510	282365	137126	253454	1096111	204972	--	--	--	--	--	--	--
+3	122	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	104993	419974	247833	115999	211824	927231	173392	--	--	--	--	--	--	--
+3	123	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	99465	397861	234784	109891	200671	878410	164262	--	--	--	--	--	--	--
+3	124	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	478262	1913046	1128921	528396	964894	4223689	789830	--	--	--	--	--	--	--
+3	125	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	MONAVEEN	NO	NO	2445034	9780136	1217904	9498303	0	4986172	17955205	--	--	--	--	--	--	--
+3	126	Shield Depleted	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	MONAVEEN	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+3	127	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	MONAVEEN	NO	NO	13219062	0	1316918	10270505	0	5391542	19414943	--	--	--	--	--	--	--
+3	128	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	507474	2029894	5998309	1405436	1023830	8864142	2100801	--	--	--	--	--	--	--
+3	129	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	NO	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	130	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	105228	420914	248388	116259	212298	929307	173780	--	--	--	--	--	--	--
+3	131	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	112281	449126	252368	122559	226528	979665	183197	--	--	--	--	--	--	--
+3	132	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	102223	408893	241294	112938	206235	902766	168817	--	--	--	--	--	--	--
+3	133	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	106346	425385	251026	117494	214553	939178	175626	--	--	--	--	--	--	--
+3	134	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	459950	1839801	1085697	508165	927951	4061975	759589	--	--	--	--	--	--	--
+3	135	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	30060	120238	409435	91207	60645	575251	136334	--	--	--	--	--	--	--
+3	136	Attack	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	29310	117242	399232	88935	59134	560916	132937	--	--	--	--	--	--	--
+3	137	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	111306	445225	262734	122973	224560	982981	183817	--	--	--	--	--	--	--
+3	138	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	117660	470639	264456	128429	237379	1026591	191972	--	--	--	--	--	--	--
+3	139	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	99034	396134	233765	109415	199800	874598	163550	--	--	--	--	--	--	--
+3	140	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	100628	402512	237529	111176	203017	888679	166183	--	--	--	--	--	--	--
+3	141	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	108420	433679	255921	119785	218737	957491	179051	--	--	--	--	--	--	--
+3	142	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	114104	456414	269337	126064	230204	1007686	188437	--	--	--	--	--	--	--
+3	143	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	116211	464844	261200	126847	234456	1013950	189608	--	--	--	--	--	--	--
+3	144	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	479215	1916861	1131172	529450	966818	4232111	791405	--	--	--	--	--	--	--
+3	145	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	98663	394653	232891	109005	199053	871327	162938	--	--	--	--	--	--	--
+3	146	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	114582	458329	270467	126593	231169	1011913	189227	--	--	--	--	--	--	--
+4	148	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.45	Reflections	Mirror Data	--	--	--
+4	149	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+4	150	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+4	151	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1.5	The One Who is Many	Borg Queen	--	--	--
+4	152	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	66944	267774	270606	126658	469776	1012433	189325	--	--	--	--	--	--	--
+4	153	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	293832	1175326	1130982	549246	2061962	4390352	820996	--	--	--	--	--	--	--
+4	154	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	270752	1083008	1094463	512268	1900001	4094770	765722	--	--	--	--	--	--	--
+4	155	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	65447	261787	264556	123826	459273	989797	185092	--	--	--	--	--	--	--
+4	156	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	264598	1058391	1069586	500624	1856814	4001696	748317	--	--	--	--	--	--	--
+4	157	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	MONAVEEN	NO	YES	29468420	0	2729344	22749570	0	11942476	43004858	--	--	--	--	--	--	--
+4	158	Combatant Destroyed	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	MONAVEEN	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	159	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	MONAVEEN	NO	NO	13313480	0	1233085	10277983	0	5395468	19429080	--	--	--	--	--	--	--
+4	160	Combatant Destroyed	pfaffle	ROEandPEACE	MONAVEEN	NO	ManTheyCa11Jayne	Dominion	MONAVEEN	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	161	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	58739	234956	237441	111135	412201	888351	166121	--	--	--	--	--	--	--
+4	162	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	294320	1177279	1132861	550159	2065387	4397646	822360	--	--	--	--	--	--	--
+4	163	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	276006	1104023	1115701	522208	1936870	4174228	780580	--	--	--	--	--	--	--
+4	164	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	65639	262558	265334	124190	460624	992709	185636	--	--	--	--	--	--	--
+4	165	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	66141	264563	267361	125139	464142	1000292	187054	--	--	--	--	--	--	--
+4	166	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	NO	2483337	9933349	1308765	9697820	0	5090908	18332363	--	--	--	--	--	--	--
+4	167	Shield Depleted	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	168	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	NO	12903773	0	1360106	10078250	0	5290617	19051512	--	--	--	--	--	--	--
+4	169	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM A	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM A	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	170	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	75185	300738	289392	140539	527608	1123389	210073	--	--	--	--	--	--	--
+4	171	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	68488	273952	276850	129581	480614	1035792	193693	--	--	--	--	--	--	--
+4	172	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	61020	244081	246662	115450	428208	922849	172572	--	--	--	--	--	--	--
+4	173	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	275632	1102530	1114191	521501	1934249	4168579	779524	--	--	--	--	--	--	--
+4	174	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	NO	5126255	20505020	2789392	20080834	0	10541513	37959988	--	--	--	--	--	--	--
+4	175	Shield Depleted	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM B	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	176	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM B	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	177	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	YES	66557392	0	7243286	52144416	0	27373418	98571676	--	--	--	--	--	--	--
+4	178	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM B	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	179	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	NO	24449224	0	2660752	19154754	0	10055364	36209366	--	--	--	--	--	--	--
+4	180	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM B	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM B	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+4	181	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	66704	266814	269636	126204	468092	1008804	188646	--	--	--	--	--	--	--
+4	182	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	59448	237794	240309	112478	417179	899080	168128	--	--	--	--	--	--	--
+4	183	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	58818	235271	237760	111284	412754	889543	166344	--	--	--	--	--	--	--
+4	184	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	274353	1097412	1109019	519081	1925271	4149230	775906	--	--	--	--	--	--	--
+4	185	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	58079	232314	234771	109885	407565	878361	164253	--	--	--	--	--	--	--
+4	186	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	62827	251306	253964	118868	440885	950169	177681	--	--	--	--	--	--	--
+5	188	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.45	Reflections	Mirror Data	--	--	--
+5	189	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+5	190	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+5	191	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1.5	The One Who is Many	Borg Queen	--	--	--
+5	192	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	303153	1212613	1227303	573791	2127377	4586552	857685	--	--	--	--	--	--	--
+5	193	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	61839	247354	250350	117044	433951	935584	174954	--	--	--	--	--	--	--
+5	194	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	64267	257070	260183	121642	450995	972331	181826	--	--	--	--	--	--	--
+5	195	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	YES	6696610	26786440	3255186	25957674	0	13626584	49069326	--	--	--	--	--	--	--
+5	196	Shield Depleted	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM C	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	197	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM C	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	198	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	NO	13225831	0	1285801	10253301	0	5382511	19382422	--	--	--	--	--	--	--
+5	199	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM C	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM C	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	200	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	65955	263818	267014	124835	462835	997858	186599	--	--	--	--	--	--	--
+5	201	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	66827	267306	270544	126485	468955	1011051	189066	--	--	--	--	--	--	--
+5	202	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	YES	6553242	26212968	3151220	25377728	0	13322138	47973020	--	--	--	--	--	--	--
+5	203	Shield Depleted	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	204	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	205	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	NO	13823230	0	1329419	10706217	0	5620270	20238596	--	--	--	--	--	--	--
+5	206	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM D	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM D	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+5	207	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	YES	276036	1104145	1117520	522465	1937083	4176284	780965	--	--	--	--	--	--	--
+5	208	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	61187	244750	247714	115812	429382	925733	173112	--	--	--	--	--	--	--
+5	209	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	58908	235632	238486	111497	413387	891247	166663	--	--	--	--	--	--	--
+6	211	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	0.45	Reflections	Mirror Data	--	--	--
+6	212	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1	Take the Shot	Mirror Picard	--	--	--
+6	213	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	10000	Anticollective	Mirror Picard	--	--	--
+6	214	Officer Ability	ManTheyCa11Jayne	Dominion	CORVUS	NO	--	--	CORVUS	NO	--	--	--	--	--	--	--	--	Officer	1.5	The One Who is Many	Borg Queen	--	--	--
+6	215	Attack	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	CORVUS	NO	NO	65714	262856	266040	124379	461147	994218	185918	--	--	--	--	--	--	--
+6	216	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	NO	2503598	10014390	1142842	9652161	0	5066940	18246051	--	--	--	--	--	--	--
+6	217	Shield Depleted	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM E	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+6	218	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM E	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+6	219	Attack	ManTheyCa11Jayne	Dominion	CORVUS	NO	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	YES	30378068	0	2773395	23423412	0	12296213	44278662	--	--	--	--	--	--	--
+6	220	Combatant Destroyed	pfaffle	ROEandPEACE	DEFENSE PLATFORM E	NO	ManTheyCa11Jayne	Dominion	DEFENSE PLATFORM E	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	--
+

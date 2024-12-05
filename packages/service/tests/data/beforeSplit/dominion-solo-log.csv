@@ -1,0 +1,324 @@
+Player Name	Player Level	Outcome	Ship Name	Ship Level	Ship Strength	Ship XP	Officer One	Officer Two	Officer Three	Hull Health	Hull Health Remaining	Shield Health	Shield Health Remaining	Location	Timestamp
+Jem'Hadar Flagship	50	DEFEAT	Jem'Hadar Flagship	50	171992544	0	Third Jem'Hadar	--	--	164160558	0	121495990	0	Evarin	11/29/2024 8:29:52 AM
+
+Reward Name	Count
+Dominion Solo Armada Credit Uncommon	1181489
+Dominion Solo Armada Edict	257
+Mega Chest	1
+
+Fleet Type	Attack	Defense	Health	Ship Ability	Captain Maneuver	Officer One Ability	Officer Two Ability	Officer Three Ability	Officer Attack Bonus	Damage Per Round	Armour Pierce	Shield Pierce	Accuracy	Critical Chance	Critical Damage	Officer Defense Bonus	Armour	Shield Deflection	Dodge	Officer Health Bonus	Shield Health	Hull Health	Impulse Speed	Warp Range	Warp Speed	Cargo Capacity	Protected Cargo	Mining Bonus	Debuff applied	Buff applied
+Player Fleet 1	4837161	4541520	33111410	Empire Tax	Visionary	Maquis Strike	Fun Will Now Commence	Me Against The Galaxy	4	3923057	46551	55869	583441	0.12	2.25	4	63172	810954	34178	4	25155825	41066995	145	185	67.85	346750	0	1	NO	NO
+Player Fleet 2	3404572	2036235	31551974	Modernity is Overrated	Make It So	Engage	Unshakeable Moral Code	Savage Tenacity	5	3026864	58044	442696	58044	0.12	2.25	5	370341	24481	12425	4.5	24844144	38259804	151	159	76.8	3104580	0	1	NO	NO
+Player Fleet 3	3156879	1915035	10646488	Resourceful Approach	Defensive Measures	Persistence Is Key	Deceptive Warfare	Quick Thinking	5	2776020	507442	55616	41133	0.08	2.05	5	20614	15628	346765	5	9869865	11423111	160	134	65.13	244550	0	1	NO	NO
+Enemy Fleet 1	14825460	14338815	142828272	ship_ability_name_{0}	--	--	--	--	0	9883272	541616	631872	473908	0.1	1.5	0	926859	1129916	810988	0	121495992	164160560	15	2	2	0	0	1	NO	NO
+
+Round	Battle Event	Type	Attacker Name	Attacker Alliance	Attacker Ship	Attacker - Is Armada?	Target Name	Target Alliance	Target Ship	Target - Is Armada?	Critical Hit?	Hull Damage	Shield Damage	Mitigated Damage	Mitigated Isolytic Damage	Mitigated Apex Barrier	Total Damage	Total Isolytic Damage	Ability Type	Ability Value	Ability Name	Ability Owner Name	Target Defeated	Target Destroyed	Charging Weapons %
+1	1	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	1	Visionary	Chakotay	--	--	--
+1	2	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.8	Fun Will Now Commence	Seven of Nine	--	--	--
+1	3	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	1.2	Make It So	Jean-Luc Picard	--	--	--
+1	4	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.05	Engage	Jean-Luc Picard	--	--	--
+1	5	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	1.5	Unshakeable Moral Code	Beverly Crusher	--	--	--
+1	6	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.3	Three Shots of Something...	Enterprise-E Troi	--	--	--
+1	7	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	4	Defensive Measures	Benjamin Sisko	--	--	--
+1	8	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+1	9	Forbidden Tech Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	ForbiddenTechAbility	0.05	--	Subnucleonic Beam	--	--	--
+1	10	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	USS DEFIANT	YES	NO	73491	293963	904547	0	0	1272001	0	--	--	--	--	--	--	--
+1	11	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	86636	346543	369547	0	0	644760	157966	--	--	--	--	--	--	--
+1	12	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	97695	390778	416718	0	0	727061	178130	--	--	--	--	--	--	--
+1	13	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	99799	399195	425694	0	0	742721	181967	--	--	--	--	--	--	--
+1	14	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	89316	357262	380978	0	0	664704	162852	--	--	--	--	--	--	--
+1	15	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	72760	291040	361540	0	0	564467	160873	--	--	--	--	--	--	--
+1	16	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	75370	301479	374508	0	0	584714	166643	--	--	--	--	--	--	--
+1	17	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	154659	618638	692916	0	0	1187217	278996	--	--	--	--	--	--	--
+1	18	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	111958	447834	501604	0	0	859430	201966	--	--	--	--	--	--	--
+1	19	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	162677	650709	728837	0	0	1248763	293460	--	--	--	--	--	--	--
+1	20	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	141180	564720	632525	0	0	1083745	254680	--	--	--	--	--	--	--
+1	21	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+1	22	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	70471	281885	868866	0	0	1221222	0	--	--	--	--	--	--	--
+1	23	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	97804	391218	417187	0	0	727879	178330	--	--	--	--	--	--	--
+1	24	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	85329	341315	363972	0	0	635033	155583	--	--	--	--	--	--	--
+1	25	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	91822	367290	391671	0	0	683360	167423	--	--	--	--	--	--	--
+1	26	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	98572	394288	420461	0	0	733591	179730	--	--	--	--	--	--	--
+1	27	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	300428	1201711	1213164	0	0	2113076	602227	--	--	--	--	--	--	--
+1	28	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	45102	180408	256048	0	0	389925	91633	--	--	--	--	--	--	--
+1	29	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	30	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+1	31	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	69976	279902	862754	0	0	1212632	0	--	--	--	--	--	--	--
+1	32	Charging Weapons	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+1	33	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	67137	268547	333598	0	0	520842	148440	--	--	--	--	--	--	--
+1	34	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	75989	303955	377583	0	0	589515	168012	--	--	--	--	--	--	--
+1	35	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	33.33
+1	36	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	37	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	USS DEFIANT	YES	NO	204103	816410	2512159	0	0	3532672	0	--	--	--	--	--	--	--
+1	38	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	186420	745681	2298446	0	0	3230547	0	--	--	--	--	--	--	--
+1	39	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+1	40	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	USS DEFIANT	YES	NO	173456	693823	2134948	0	0	3002227	0	--	--	--	--	--	--	--
+2	42	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Deceptive Warfare	Georgiou	--	--	--
+2	43	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+2	44	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+2	45	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	161084	644335	488013	0	0	1293432	0	--	--	--	--	--	--	--
+2	46	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	473658	1894632	2020400	0	0	3525052	863638	--	--	--	--	--	--	--
+2	47	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	510305	2041221	2176719	0	0	3797787	930458	--	--	--	--	--	--	--
+2	48	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	88993	355974	379603	0	0	662305	162265	--	--	--	--	--	--	--
+2	49	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	85620	342482	365215	0	0	637202	156115	--	--	--	--	--	--	--
+2	50	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	386722	1546890	1921599	0	0	3000164	855047	--	--	--	--	--	--	--
+2	51	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	376214	1504857	1869384	0	0	2918642	831813	--	--	--	--	--	--	--
+2	52	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	53	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+2	54	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+2	55	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	73269	293076	903362	0	0	1269707	0	--	--	--	--	--	--	--
+2	56	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	153191	612762	137750	0	0	725866	177837	--	--	--	--	--	--	--
+2	57	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	832192	3328767	748314	0	0	3943191	966082	--	--	--	--	--	--	--
+2	58	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	154197	616789	138655	0	0	730635	179006	--	--	--	--	--	--	--
+2	59	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	144357	577428	129807	0	0	684010	167582	--	--	--	--	--	--	--
+2	60	Charging Weapons	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	61	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	54265	217061	265788	0	0	404758	132356	--	--	--	--	--	--	--
+2	62	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+2	63	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+2	64	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	152939	611757	463339	0	0	1228035	0	--	--	--	--	--	--	--
+2	65	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1431024	5724096	1286789	0	0	6780650	1661259	--	--	--	--	--	--	--
+2	66	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	270642	1082570	243363	0	0	1282389	314186	--	--	--	--	--	--	--
+2	67	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	249729	998917	224558	0	0	1183296	289908	--	--	--	--	--	--	--
+2	68	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	275453	1101811	247689	0	0	1305183	319770	--	--	--	--	--	--	--
+2	69	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	263015	1052061	236505	0	0	1246250	305331	--	--	--	--	--	--	--
+2	70	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1326114	5304454	1192453	0	0	6283551	1539470	--	--	--	--	--	--	--
+2	71	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	370523	1482092	1841105	0	0	2874490	819230	--	--	--	--	--	--	--
+2	72	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	326352	1305409	1621623	0	0	2531816	721568	--	--	--	--	--	--	--
+2	73	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	66.66
+2	74	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+2	75	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+2	76	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	77	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+2	78	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	80	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+3	81	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+3	82	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	USS DEFIANT	YES	NO	72997	291986	899117	0	0	1264100	0	--	--	--	--	--	--	--
+3	83	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	509654	2038614	2023358	0	0	3530213	1041413	--	--	--	--	--	--	--
+3	84	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	568432	2273729	2256713	0	0	3937354	1161520	--	--	--	--	--	--	--
+3	85	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	555230	2220920	2204300	0	0	3845907	1134543	--	--	--	--	--	--	--
+3	86	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	96882	387527	384627	0	0	671070	197966	--	--	--	--	--	--	--
+3	87	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	83851	335404	364604	0	0	569251	214608	--	--	--	--	--	--	--
+3	88	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	400011	1600045	1739345	0	0	2715614	1023787	--	--	--	--	--	--	--
+3	89	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	129313	517251	507653	0	0	869794	284423	--	--	--	--	--	--	--
+3	90	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	140325	561300	550885	0	0	943866	308644	--	--	--	--	--	--	--
+3	91	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	160934	643734	631789	0	0	1082484	353973	--	--	--	--	--	--	--
+3	92	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	143765	575061	564390	0	0	967005	316211	--	--	--	--	--	--	--
+3	93	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+3	94	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	73190	292759	902752	0	0	1268701	0	--	--	--	--	--	--	--
+3	95	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	582551	2330202	2312764	0	0	4035148	1190369	--	--	--	--	--	--	--
+3	96	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	516179	2064714	2049263	0	0	3575410	1054746	--	--	--	--	--	--	--
+3	97	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	103754	415015	411909	0	0	718670	212008	--	--	--	--	--	--	--
+3	98	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	106911	427646	424445	0	0	740542	218460	--	--	--	--	--	--	--
+3	99	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1605605	6422422	5740687	0	0	9999066	3769648	--	--	--	--	--	--	--
+3	100	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	51533	206132	252406	0	0	384379	125692	--	--	--	--	--	--	--
+3	101	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	102	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+3	103	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	154368	617470	477704	0	0	1249542	0	--	--	--	--	--	--	--
+3	104	Charging Weapons	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	105	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	440355	1761421	1914771	0	0	2989504	1127043	--	--	--	--	--	--	--
+3	106	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	415520	1662078	1806780	0	0	2820899	1063479	--	--	--	--	--	--	--
+3	107	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+3	108	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+3	109	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	187945	751780	2318186	0	0	3257911	0	--	--	--	--	--	--	--
+3	110	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+3	111	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	384475	1537901	1189793	0	0	3112169	0	--	--	--	--	--	--	--
+3	112	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+3	113	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	182581	730324	2252026	0	0	3164931	0	--	--	--	--	--	--	--
+4	115	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	116	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Deceptive Warfare	Georgiou	--	--	--
+4	117	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+4	118	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	151264	605055	468099	0	0	1224418	0	--	--	--	--	--	--	--
+4	119	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	92543	370174	367403	0	0	641019	189101	--	--	--	--	--	--	--
+4	120	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	95085	380339	377492	0	0	658622	194294	--	--	--	--	--	--	--
+4	121	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	91835	367339	364590	0	0	636111	187653	--	--	--	--	--	--	--
+4	122	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	93414	373656	370859	0	0	647049	190880	--	--	--	--	--	--	--
+4	123	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	73259	293036	337812	0	0	527421	176686	--	--	--	--	--	--	--
+4	124	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	375503	1502014	1731522	0	0	2703400	905639	--	--	--	--	--	--	--
+4	125	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	126	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+4	127	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+4	128	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	153677	614708	475567	0	0	1243952	0	--	--	--	--	--	--	--
+4	129	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	159907	639630	137285	0	0	723415	213407	--	--	--	--	--	--	--
+4	130	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	795730	3182919	683157	0	0	3599850	1061956	--	--	--	--	--	--	--
+4	131	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	158045	632180	135686	0	0	714989	210922	--	--	--	--	--	--	--
+4	132	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	142966	571862	122740	0	0	646771	190797	--	--	--	--	--	--	--
+4	133	Charging Weapons	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	134	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	52961	211844	259401	0	0	395031	129175	--	--	--	--	--	--	--
+4	135	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+4	136	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+4	137	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	73313	293250	904266	0	0	1270829	0	--	--	--	--	--	--	--
+4	138	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1553824	6215298	1180931	0	0	6911238	2038815	--	--	--	--	--	--	--
+4	139	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1532078	6128310	1164403	0	0	6814510	2010281	--	--	--	--	--	--	--
+4	140	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1454948	5819793	1105784	0	0	6471448	1909077	--	--	--	--	--	--	--
+4	141	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	287272	1149089	218331	0	0	1277754	376938	--	--	--	--	--	--	--
+4	142	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	298600	1194400	226940	0	0	1328139	391801	--	--	--	--	--	--	--
+4	143	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	296302	1185209	225194	0	0	1317919	388786	--	--	--	--	--	--	--
+4	144	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	403375	1613501	1860045	0	0	2904061	972860	--	--	--	--	--	--	--
+4	145	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	418847	1675386	1931386	0	0	3015445	1010174	--	--	--	--	--	--	--
+4	146	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	491559	1966235	1811861	0	0	3217524	1052131	--	--	--	--	--	--	--
+4	147	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+4	148	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+4	149	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	150	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+4	151	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	153	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Deceptive Warfare	Georgiou	--	--	--
+5	154	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+5	155	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+5	156	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	71912	287647	886627	0	0	1246186	0	--	--	--	--	--	--	--
+5	157	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	99387	397548	423937	0	0	739656	181216	--	--	--	--	--	--	--
+5	158	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	521034	2084138	2222485	0	0	3877636	950021	--	--	--	--	--	--	--
+5	159	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	85179	340714	363331	0	0	633915	155309	--	--	--	--	--	--	--
+5	160	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	464894	1859575	1983016	0	0	3459827	847658	--	--	--	--	--	--	--
+5	161	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	85913	343650	400777	0	0	625727	204613	--	--	--	--	--	--	--
+5	162	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	412834	1651335	1925845	0	0	3006793	983221	--	--	--	--	--	--	--
+5	163	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	152000	608002	596720	0	0	1022398	334324	--	--	--	--	--	--	--
+5	164	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	148287	593146	582140	0	0	997417	326156	--	--	--	--	--	--	--
+5	165	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	641127	2564507	2516922	0	0	4312401	1410155	--	--	--	--	--	--	--
+5	166	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	453575	1814301	1780636	0	0	3050876	997636	--	--	--	--	--	--	--
+5	167	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	168	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+5	169	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	153027	612106	463603	0	0	1228736	0	--	--	--	--	--	--	--
+5	170	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	90769	363075	387176	0	0	675518	165502	--	--	--	--	--	--	--
+5	171	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	88198	352792	376210	0	0	656385	160815	--	--	--	--	--	--	--
+5	172	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	96370	385481	411069	0	0	717205	175715	--	--	--	--	--	--	--
+5	173	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	96010	384038	409531	0	0	714521	175058	--	--	--	--	--	--	--
+5	174	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1280120	5120482	4880911	0	0	8501517	2779996	--	--	--	--	--	--	--
+5	175	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	226056	904226	1107214	0	0	1686131	551365	--	--	--	--	--	--	--
+5	176	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+5	177	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+5	178	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	73252	293007	903149	0	0	1269408	0	--	--	--	--	--	--	--
+5	179	Charging Weapons	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+5	180	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	395523	1582090	1845089	0	0	2880710	941992	--	--	--	--	--	--	--
+5	181	Shield Depleted	Jem'Hadar Flagship	--	Jem'Hadar Flagship	YES	pfaffle	ROEandPEACE	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	YES	--	--
+5	182	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1966387	0	1834615	0	0	2864357	936645	--	--	--	--	--	--	--
+5	183	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	33.33
+5	184	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	185	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	192322	769288	2371211	0	0	3332821	0	--	--	--	--	--	--	--
+5	186	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+5	187	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	437059	1748238	1324099	0	0	3509396	0	--	--	--	--	--	--	--
+5	188	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+5	189	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	190962	763850	2354448	0	0	3309260	0	--	--	--	--	--	--	--
+6	191	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	192	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Deceptive Warfare	Georgiou	--	--	--
+6	193	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+6	194	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+6	195	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	74599	298394	920128	0	0	1293121	0	--	--	--	--	--	--	--
+6	196	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	471757	0	374581	0	0	653543	192795	--	--	--	--	--	--	--
+6	197	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2583440	0	2051285	0	0	3578938	1055787	--	--	--	--	--	--	--
+6	198	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	465962	0	369979	0	0	645514	190427	--	--	--	--	--	--	--
+6	199	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	500770	0	397618	0	0	693736	204652	--	--	--	--	--	--	--
+6	200	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2031177	0	1766410	0	0	2757870	1039717	--	--	--	--	--	--	--
+6	201	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2185161	0	1900322	0	0	2966945	1118538	--	--	--	--	--	--	--
+6	202	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	203	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	204	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+6	205	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	YES	105932	423728	1306608	0	0	1836268	0	--	--	--	--	--	--	--
+6	206	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2882184	0	2288492	0	0	3992800	1177876	--	--	--	--	--	--	--
+6	207	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	495188	0	393185	0	0	686002	202371	--	--	--	--	--	--	--
+6	208	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	518960	0	412060	0	0	718934	212086	--	--	--	--	--	--	--
+6	209	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2883579	0	2289600	0	0	3994733	1178446	--	--	--	--	--	--	--
+6	210	Charging Weapons	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	211	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	291598	0	285647	0	0	435000	142245	--	--	--	--	--	--	--
+6	212	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+6	213	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+6	214	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	USS DEFIANT	YES	NO	74301	297205	915185	0	0	1286691	0	--	--	--	--	--	--	--
+6	215	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	890059	0	706718	0	0	1233032	363745	--	--	--	--	--	--	--
+6	216	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	4700684	0	3732405	0	0	6512038	1921051	--	--	--	--	--	--	--
+6	217	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	944675	0	750084	0	0	1308694	386065	--	--	--	--	--	--	--
+6	218	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	960801	0	762889	0	0	1331035	392655	--	--	--	--	--	--	--
+6	219	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	904305	0	718029	0	0	1252767	369567	--	--	--	--	--	--	--
+6	220	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	971318	0	771239	0	0	1345604	396953	--	--	--	--	--	--	--
+6	221	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2234026	0	1942818	0	0	3033293	1143551	--	--	--	--	--	--	--
+6	222	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2139247	0	1860393	0	0	2904604	1095036	--	--	--	--	--	--	--
+6	223	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	66.66
+6	224	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+6	225	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	226	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+6	227	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	229	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Deceptive Warfare	Georgiou	--	--	--
+7	230	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+7	231	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+7	232	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	155357	621427	480765	0	0	1257549	0	--	--	--	--	--	--	--
+7	233	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	491442	0	390211	0	0	680813	200840	--	--	--	--	--	--	--
+7	234	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	509399	0	404469	0	0	705689	208179	--	--	--	--	--	--	--
+7	235	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2868968	0	2277998	0	0	3974491	1172475	--	--	--	--	--	--	--
+7	236	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2818184	0	2237675	0	0	3904138	1151721	--	--	--	--	--	--	--
+7	237	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1893307	0	1646512	0	0	2570675	969144	--	--	--	--	--	--	--
+7	238	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1950578	0	1696318	0	0	2648436	998460	--	--	--	--	--	--	--
+7	239	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	767197	0	602369	0	0	1032077	337489	--	--	--	--	--	--	--
+7	240	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2940026	0	2308378	0	0	3955090	1293314	--	--	--	--	--	--	--
+7	241	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3508522	0	2754736	0	0	4719863	1543395	--	--	--	--	--	--	--
+7	242	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2296368	0	1803006	0	0	3089204	1010170	--	--	--	--	--	--	--
+7	243	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+7	244	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+7	245	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	150174	600694	464725	0	0	1215593	0	--	--	--	--	--	--	--
+7	246	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	4121954	0	707763	0	0	3729511	1100206	--	--	--	--	--	--	--
+7	247	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	3946210	0	677587	0	0	3570500	1053297	--	--	--	--	--	--	--
+7	248	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	781742	0	134229	0	0	707313	208658	--	--	--	--	--	--	--
+7	249	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	815054	0	139949	0	0	737454	217549	--	--	--	--	--	--	--
+7	250	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	7846931	0	5611189	0	0	9773508	3684612	--	--	--	--	--	--	--
+7	251	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	283419	0	277635	0	0	422799	138255	--	--	--	--	--	--	--
+7	252	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+7	253	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+7	254	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	150995	603978	467266	0	0	1222239	0	--	--	--	--	--	--	--
+7	255	Charging Weapons	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	256	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2174386	0	1890951	0	0	2952314	1113023	--	--	--	--	--	--	--
+7	257	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1953520	0	1698876	0	0	2652430	999966	--	--	--	--	--	--	--
+7	258	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+7	259	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+7	260	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	184411	737643	2274595	0	0	3196649	0	--	--	--	--	--	--	--
+7	261	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+7	262	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	424041	1696165	1312234	0	0	3432440	0	--	--	--	--	--	--	--
+7	263	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+7	264	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	USS DEFIANT	YES	NO	200171	800684	2465556	0	0	3466411	0	--	--	--	--	--	--	--
+8	266	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Quick Thinking	Gabriel Lorca	--	--	--
+8	267	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+8	268	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	72743	290974	897245	0	0	1260962	0	--	--	--	--	--	--	--
+8	269	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	474725	0	376938	0	0	657655	194008	--	--	--	--	--	--	--
+8	270	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	493901	0	392163	0	0	684219	201845	--	--	--	--	--	--	--
+8	271	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2600158	0	2064560	0	0	3602099	1062619	--	--	--	--	--	--	--
+8	272	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	458281	0	363881	0	0	634874	187288	--	--	--	--	--	--	--
+8	273	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1939886	0	1687019	0	0	2633918	992987	--	--	--	--	--	--	--
+8	274	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2027203	0	1762954	0	0	2752474	1037683	--	--	--	--	--	--	--
+8	275	Charging Weapons	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	276	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	277	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+8	278	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	73295	293180	904049	0	0	1270524	0	--	--	--	--	--	--	--
+8	279	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	462118	0	366927	0	0	640189	188856	--	--	--	--	--	--	--
+8	280	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2490630	0	1977593	0	0	3450365	1017858	--	--	--	--	--	--	--
+8	281	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	461589	0	366507	0	0	639456	188640	--	--	--	--	--	--	--
+8	282	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	521720	0	414252	0	0	722758	213214	--	--	--	--	--	--	--
+8	283	Charging Weapons	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	284	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	300677	0	294540	0	0	448543	146674	--	--	--	--	--	--	--
+8	285	Officer Ability	pfaffle	ROEandPEACE	MONAVEEN	YES	--	--	MONAVEEN	NO	--	--	--	--	--	--	--	--	Officer	0.04	Savage Tenacity	Khan Noonien Singh	--	--	--
+8	286	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+8	287	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	VALDORE	YES	NO	156177	624708	483304	0	0	1264189	0	--	--	--	--	--	--	--
+8	288	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	835401	0	663319	0	0	1157313	341407	--	--	--	--	--	--	--
+8	289	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	954675	0	758024	0	0	1322547	390152	--	--	--	--	--	--	--
+8	290	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	983775	0	781130	0	0	1362861	402044	--	--	--	--	--	--	--
+8	291	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	5227755	0	4150906	0	0	7242209	2136452	--	--	--	--	--	--	--
+8	292	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	865383	0	687125	0	0	1198848	353660	--	--	--	--	--	--	--
+8	293	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	5212822	0	4139049	0	0	7221522	2130349	--	--	--	--	--	--	--
+8	294	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2155222	0	1874286	0	0	2926295	1103213	--	--	--	--	--	--	--
+8	295	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2119004	0	1842789	0	0	2877119	1084674	--	--	--	--	--	--	--
+8	296	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	11799639	0	8698577	0	0	15447035	5051181	--	--	--	--	--	--	--
+8	297	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	6	Me Against The Galaxy	B'Elanna Torres	--	--	--
+8	298	Officer Ability	pfaffle	ROEandPEACE	VALDORE	YES	--	--	VALDORE	NO	--	--	--	--	--	--	--	--	Officer	0.08	Maquis Strike	Chakotay	--	--	--
+8	299	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	300	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+8	301	Charging Weapons	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	--	100
+9	303	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.6	Deceptive Warfare	Georgiou	--	--	--
+9	304	Officer Ability	pfaffle	ROEandPEACE	USS DEFIANT	YES	--	--	USS DEFIANT	NO	--	--	--	--	--	--	--	--	Officer	0.06	Persistence Is Key	Benjamin Sisko	--	--	--
+9	305	Attack	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	pfaffle	ROEandPEACE	MONAVEEN	YES	NO	71652	286610	883789	0	0	1242051	0	--	--	--	--	--	--	--
+9	306	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	494955	0	393000	0	0	685679	202276	--	--	--	--	--	--	--
+9	307	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	537821	0	427036	0	0	745063	219794	--	--	--	--	--	--	--
+9	308	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	534648	0	424517	0	0	740668	218497	--	--	--	--	--	--	--
+9	309	Attack	pfaffle	ROEandPEACE	VALDORE	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	469327	0	372651	0	0	650176	191802	--	--	--	--	--	--	--
+9	310	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1990091	0	1835342	0	0	2865493	959940	--	--	--	--	--	--	--
+9	311	Attack	pfaffle	ROEandPEACE	MONAVEEN	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	1827728	0	1685604	0	0	2631709	881623	--	--	--	--	--	--	--
+9	312	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2415675	0	1896681	0	0	3249703	1062653	--	--	--	--	--	--	--
+9	313	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	584388	0	458835	0	0	786151	257072	--	--	--	--	--	--	--
+9	314	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	NO	704229	0	552929	0	0	947368	309790	--	--	--	--	--	--	--
+9	315	Attack	pfaffle	ROEandPEACE	USS DEFIANT	YES	Jem'Hadar Flagship	--	Jem'Hadar Flagship	NO	YES	2498055	0	1961362	0	0	3360525	1098892	--	--	--	--	--	--	--
+9	316	Combatant Destroyed	Jem'Hadar Flagship	--	Jem'Hadar Flagship	YES	pfaffle	ROEandPEACE	Jem'Hadar Flagship	NO	--	--	--	--	--	--	--	--	--	--	--	--	--	YES	--
+

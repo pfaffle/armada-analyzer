@@ -3,7 +3,7 @@ import { expect } from "expect";
 import request from "supertest";
 import { initApp } from "../../src/app.js";
 import { createRouter as createArmadaRouter } from "../../src/routes/armada.js";
-import { readTestDataFile } from "../util/index.js";
+import { getTestDataFile } from "../util/index.js";
 import fs from "fs";
 
 describe("/armada/upload route", () => {
@@ -11,7 +11,9 @@ describe("/armada/upload route", () => {
   const splitLogsPath = fs.mkdtempSync("/tmp/test-splitlogs-");
   const app = initApp();
   app.use("/armada", createArmadaRouter({ uploadsPath, splitLogsPath }));
-  const combatLog = readTestDataFile("in/hirogen-log.csv");
+  const combatLog = fs.readFileSync(
+    getTestDataFile("beforeSplit/hirogen-log.csv"),
+  );
 
   it("returns success", async () => {
     const response = await request(app)
