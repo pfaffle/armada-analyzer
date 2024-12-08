@@ -9,20 +9,19 @@ const RewardsLog = z
 
 export type RewardsLog = z.infer<typeof RewardsLog>;
 
-export interface ParsedRewardsLogSegment {
+export type rewardsSchemaType = "rewards";
+
+export interface RewardsLogSegment {
   type: "rewards";
   records: RewardsLog[];
 }
 
 export const RewardsLogParser = {
-  parse: (input: unknown[]): ParsedRewardsLogSegment | undefined => {
-    try {
-      return {
-        type: "rewards" as const,
-        records: input.map((l) => RewardsLog.parse(l)),
-      };
-    } catch (e) {
-      return;
-    }
-  },
+  type: "rewards" as const,
+  matchesSchema: (input: unknown) =>
+    RewardsLog.partial().safeParse(input).success,
+  parse: (input: unknown[]): RewardsLogSegment => ({
+    type: "rewards",
+    records: input.map((l) => RewardsLog.parse(l)),
+  }),
 };

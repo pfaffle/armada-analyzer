@@ -4,11 +4,7 @@ const SummaryLog = z
   .object({
     "Player Name": z.string(),
     "Player Level": z.coerce.number(),
-    Outcome: z.union([
-      z.literal("VICTORY"),
-      z.literal("DEFEAT"),
-      z.literal("PARTIAL"),
-    ]),
+    Outcome: z.string(),
     "Ship Name": z.string(),
     "Ship Level": z.coerce.number(),
     "Ship Strength": z.coerce.number(),
@@ -27,20 +23,19 @@ const SummaryLog = z
 
 export type SummaryLog = z.infer<typeof SummaryLog>;
 
-export interface ParsedSummaryLogSegment {
+export type summarySchemaType = "summary";
+
+export interface SummaryLogSegment {
   type: "summary";
   records: SummaryLog[];
 }
 
 export const SummaryLogParser = {
-  parse: (input: unknown[]): ParsedSummaryLogSegment | undefined => {
-    try {
-      return {
-        type: "summary" as const,
-        records: input.map((l) => SummaryLog.parse(l)),
-      };
-    } catch (e) {
-      return;
-    }
-  },
+  type: "summary" as const,
+  matchesSchema: (input: unknown) =>
+    SummaryLog.partial().safeParse(input).success,
+  parse: (input: unknown[]): SummaryLogSegment => ({
+    type: "summary",
+    records: input.map((l) => SummaryLog.parse(l)),
+  }),
 };

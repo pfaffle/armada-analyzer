@@ -31,27 +31,26 @@ const FleetsLog = z
     "Cargo Capacity": z.coerce.number(),
     "Protected Cargo": z.coerce.number(),
     "Mining Bonus": z.coerce.number(),
-    "Debuff applied": z.union([z.literal("YES"), z.literal("NO")]),
-    "Buff applied": z.union([z.literal("YES"), z.literal("NO")]),
+    "Debuff applied": z.string(),
+    "Buff applied": z.string(),
   })
   .strict();
 
 export type FleetsLog = z.infer<typeof FleetsLog>;
 
-export interface ParsedFleetsLogSegment {
+export type fleetsSchemaType = "fleets";
+
+export interface FleetsLogSegment {
   type: "fleets";
   records: FleetsLog[];
 }
 
 export const FleetsLogParser = {
-  parse: (input: unknown[]): ParsedFleetsLogSegment | undefined => {
-    try {
-      return {
-        type: "fleets" as const,
-        records: input.map((l) => FleetsLog.parse(l)),
-      };
-    } catch (e) {
-      return;
-    }
-  },
+  type: "fleets" as const,
+  matchesSchema: (input: unknown) =>
+    FleetsLog.partial().safeParse(input).success,
+  parse: (input: unknown[]): FleetsLogSegment => ({
+    type: "fleets",
+    records: input.map((l) => FleetsLog.parse(l)),
+  }),
 };
