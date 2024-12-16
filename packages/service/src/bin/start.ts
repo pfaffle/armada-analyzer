@@ -4,6 +4,7 @@ import { initApp } from "../app.js";
 import debug from "debug";
 import http from "http";
 import { createRouter as createArmadaRouter } from "../routes/armada.js";
+import { createLogParser } from "../logParser.js";
 const log = debug("app:server");
 const app = initApp();
 
@@ -35,11 +36,14 @@ app.set("port", port);
 /**
  * Wire up API routes
  */
+const logParser = createLogParser({
+  splitLogsPath: process.env.SPLIT_LOGS_PATH || "/tmp/splitlogs",
+});
 app.use(
   "/armada",
   createArmadaRouter({
     uploadsPath: process.env.UPLOADS_PATH || "/tmp/uploads",
-    splitLogsPath: process.env.SPLIT_LOGS_PATH || "/tmp/splitlogs",
+    logParser,
   }),
 );
 

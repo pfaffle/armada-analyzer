@@ -11,6 +11,7 @@
     },
   ],
   "settings": {
-    "nodejs-testing.pretest": ["pnpm", "-C", "packages/service/", "build"],
+    "nodejs-testing.pretest": ["pnpm", "build"],
+    "nodejs-testing.include": ["./dist/tests"],
   },
 }
